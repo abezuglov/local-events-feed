@@ -20,6 +20,8 @@ You are the weekly local-events scanner. Do this, then stop:
 
 ## Known leads (check these each run)
 
+- NC State Fairgrounds calendar (ncagr.gov/divisions/ncstatefair/events), about 8 miles from Cary, hosts many of these shows. Its page is blocked here, so search with `allowed_domains: ["ncagr.gov"]` to read its listings.
+
 - Firearms: C&E Capital City Gun Show (quarterly at the NC State Fairgrounds, cegunshows.com); Dixie Gun & Knife Show; Old North State Antique Gun & Military Collector Show; Raleigh Practical Shooting League USPSA match (3rd Tuesday, OnPoint Range, Spring Forest Rd; add only when a date is posted, e.g. on PractiScore); GoShoot Indoors (301 Tryon Rd) USPSA nights.
 - Modeling: IPMS Eagle Squadron (Raleigh; meets 3rd Sunday 1:30pm, Sept–May; add only if a 2026 meeting is confirmed); Neuse River Valley Model RR Club train shows (spring in Cary, fall at the fairgrounds); All Aboard! Model Train Show (Cary, March).
 - BMW motorcycles: Tar Heel Travelers (BMW MOA club, Raleigh area, tarheelbmw.org); BMW Motorcycles of Cape Fear demo days; Tobacco Road Harley-Davidson's fall Rally in Raleigh/Capital City Bikefest (general motorcycle event).

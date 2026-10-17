@@ -30,7 +30,7 @@
     "url": "https://hopmunitions.com/north-carolina-gun-shows-schedule",
     "price": "~$9 (confirm with promoter)",
     "category": "firearms",
-    "description": "Gun & knife show. Listings disagree on whether it runs one or two days and on the building, so verify before going."
+    "description": "Gun & knife show; both days confirmed on the NC State Fair event calendar. Building and price not confirmed, so check with the promoter."
   },
   {
     "title": "Dixie Gun & Knife Show, Raleigh",
@@ -41,7 +41,18 @@
     "url": "https://hopmunitions.com/north-carolina-gun-shows-schedule",
     "price": "~$9 (confirm with promoter)",
     "category": "firearms",
-    "description": "Gun & knife show. Listings disagree on whether it runs one or two days and on the building, so verify before going."
+    "description": "Gun & knife show; both days confirmed on the NC State Fair event calendar. Building and price not confirmed, so check with the promoter."
+  },
+  {
+    "title": "NCRVDA Raleigh Used RV Sale",
+    "start": "2026-12-11",
+    "end": "2026-12-13",
+    "venue": "NC State Fairgrounds",
+    "address": "4285 Trinity Rd, Raleigh, NC 27607",
+    "url": "https://www.northcarolinarvda.com/",
+    "price": "Not yet posted",
+    "category": "RV",
+    "description": "NC RV Dealers Association used-RV show & sale. The fairgrounds calendar lists Dec 11-12, NCRVDA lists Dec 11-13; hours not posted yet."
   },
   {
     "title": "C&E Capital City Gun Show",

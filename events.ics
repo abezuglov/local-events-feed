@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:c2d46478805a2f6d@local-events-feed
-DTSTAMP:20261017T160927Z
+DTSTAMP:20261017T161027Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T170000
 SUMMARY:Raleigh Fall Train Show (42nd annual)
@@ -23,7 +23,7 @@ URL:https://www.nmra.com/node/6061
 END:VEVENT
 BEGIN:VEVENT
 UID:cdeae762ae43ad0a@local-events-feed
-DTSTAMP:20261017T160927Z
+DTSTAMP:20261017T161027Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T160000
 SUMMARY:Raleigh Fall Train Show (42nd annual)
@@ -37,33 +37,33 @@ URL:https://www.nmra.com/node/6061
 END:VEVENT
 BEGIN:VEVENT
 UID:a50b610b2ddafef4@local-events-feed
-DTSTAMP:20261017T160927Z
+DTSTAMP:20261017T161027Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T170000
 SUMMARY:Dixie Gun & Knife Show\, Raleigh
 LOCATION:NC State Fairgrounds\, 1025 Blue Ridge Rd\, Raleigh\, NC 27607
-DESCRIPTION:Gun & knife show. Listings disagree on whether it runs one or t
- wo days and on the building\, so verify before going.\nPrice: ~$9 (confirm
-  with promoter)\nCategory: firearms\nhttps://hopmunitions.com/north-caroli
- na-gun-shows-schedule
+DESCRIPTION:Gun & knife show\; both days confirmed on the NC State Fair eve
+ nt calendar. Building and price not confirmed\, so check with the promoter
+ .\nPrice: ~$9 (confirm with promoter)\nCategory: firearms\nhttps://hopmuni
+ tions.com/north-carolina-gun-shows-schedule
 URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:a9e51513ff965e38@local-events-feed
-DTSTAMP:20261017T160927Z
+DTSTAMP:20261017T161027Z
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T170000
 SUMMARY:Dixie Gun & Knife Show\, Raleigh
 LOCATION:NC State Fairgrounds\, 1025 Blue Ridge Rd\, Raleigh\, NC 27607
-DESCRIPTION:Gun & knife show. Listings disagree on whether it runs one or t
- wo days and on the building\, so verify before going.\nPrice: ~$9 (confirm
-  with promoter)\nCategory: firearms\nhttps://hopmunitions.com/north-caroli
- na-gun-shows-schedule
+DESCRIPTION:Gun & knife show\; both days confirmed on the NC State Fair eve
+ nt calendar. Building and price not confirmed\, so check with the promoter
+ .\nPrice: ~$9 (confirm with promoter)\nCategory: firearms\nhttps://hopmuni
+ tions.com/north-carolina-gun-shows-schedule
 URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:06b12fc8b64d9e20@local-events-feed
-DTSTAMP:20261017T160927Z
+DTSTAMP:20261017T161027Z
 DTSTART;TZID=America/New_York:20261212T090000
 DTEND;TZID=America/New_York:20261212T170000
 SUMMARY:C&E Capital City Gun Show
@@ -77,7 +77,7 @@ URL:https://www.cegunshows.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:bdb477d72c9b5c77@local-events-feed
-DTSTAMP:20261017T160927Z
+DTSTAMP:20261017T161027Z
 DTSTART;TZID=America/New_York:20261213T100000
 DTEND;TZID=America/New_York:20261213T170000
 SUMMARY:C&E Capital City Gun Show
@@ -88,5 +88,17 @@ DESCRIPTION:Quarterly C&E gun show at the fairgrounds. Building may be the
  12 & under free\, cash only\nCategory: firearms\nhttps://www.cegunshows.co
  m/
 URL:https://www.cegunshows.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:76073120f3c7e0a6@local-events-feed
+DTSTAMP:20261017T161027Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+SUMMARY:NCRVDA Raleigh Used RV Sale
+LOCATION:NC State Fairgrounds\, 4285 Trinity Rd\, Raleigh\, NC 27607
+DESCRIPTION:NC RV Dealers Association used-RV show & sale. The fairgrounds 
+ calendar lists Dec 11-12\, NCRVDA lists Dec 11-13\; hours not posted yet.\
+ nPrice: Not yet posted\nCategory: RV\nhttps://www.northcarolinarvda.com/
+URL:https://www.northcarolinarvda.com/
 END:VEVENT
 END:VCALENDAR
