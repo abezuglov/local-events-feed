@@ -22,6 +22,17 @@
     "description": "Neuse River Valley Model RR Club show: 500+ vendor tables, 16 operating layouts G to Z scale. Some listings give 4825 Trinity Rd; confirm at nrvclub.net."
   },
   {
+    "title": "Porsche Cary Cars & Coffee",
+    "venue": "Porsche Cary",
+    "address": "700 Auto Park Blvd, Cary, NC 27511",
+    "url": "https://cary.porsche.com/en/cars-and-coffee",
+    "price": "Free",
+    "category": "VW/VAG",
+    "description": "Monthly dealer-hosted Cars & Coffee (2nd Saturday) at the Cary Porsche store; Porsche-heavy but all marques welcome, so VW/Audi owners fit in. Dealer site says 9:30-11:30am, some listings say 8am; verify on the dealer page or Facebook.",
+    "start": "2026-11-14T09:30",
+    "end": "2026-11-14T11:30"
+  },
+  {
     "title": "Bentonville Battlefield Fall Festival",
     "start": "2026-11-14T10:00",
     "end": "2026-11-14T16:00",
@@ -86,6 +97,17 @@
     "price": "Adults $12, 12 & under free, cash only",
     "category": "firearms",
     "description": "Quarterly C&E gun show at the fairgrounds. Building may be the Agri Supply Expo Center; confirm at cegunshows.com."
+  },
+  {
+    "title": "Porsche Cary Cars & Coffee",
+    "venue": "Porsche Cary",
+    "address": "700 Auto Park Blvd, Cary, NC 27511",
+    "url": "https://cary.porsche.com/en/cars-and-coffee",
+    "price": "Free",
+    "category": "VW/VAG",
+    "description": "Monthly dealer-hosted Cars & Coffee (2nd Saturday) at the Cary Porsche store; Porsche-heavy but all marques welcome, so VW/Audi owners fit in. Dealer site says 9:30-11:30am, some listings say 8am; verify on the dealer page or Facebook.",
+    "start": "2026-12-12T09:30",
+    "end": "2026-12-12T11:30"
   },
   {
     "title": "C&E Capital City Gun Show",

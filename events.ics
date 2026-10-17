@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:c2d46478805a2f6d@local-events-feed
-DTSTAMP:20261017T161130Z
+DTSTAMP:20261017T214657Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T170000
 SUMMARY:Raleigh Fall Train Show (42nd annual)
@@ -23,7 +23,7 @@ URL:https://www.nmra.com/node/6061
 END:VEVENT
 BEGIN:VEVENT
 UID:cdeae762ae43ad0a@local-events-feed
-DTSTAMP:20261017T161130Z
+DTSTAMP:20261017T214657Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T160000
 SUMMARY:Raleigh Fall Train Show (42nd annual)
@@ -36,74 +36,22 @@ DESCRIPTION:Neuse River Valley Model RR Club show: 500+ vendor tables\, 16
 URL:https://www.nmra.com/node/6061
 END:VEVENT
 BEGIN:VEVENT
-UID:a50b610b2ddafef4@local-events-feed
-DTSTAMP:20261017T161130Z
-DTSTART;TZID=America/New_York:20261121T090000
-DTEND;TZID=America/New_York:20261121T170000
-SUMMARY:Dixie Gun & Knife Show\, Raleigh
-LOCATION:NC State Fairgrounds\, 1025 Blue Ridge Rd\, Raleigh\, NC 27607
-DESCRIPTION:Gun & knife show\; both days confirmed on the NC State Fair eve
- nt calendar. Building and price not confirmed\, so check with the promoter
- .\nPrice: ~$9 (confirm with promoter)\nCategory: firearms\nhttps://hopmuni
- tions.com/north-carolina-gun-shows-schedule
-URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:a9e51513ff965e38@local-events-feed
-DTSTAMP:20261017T161130Z
-DTSTART;TZID=America/New_York:20261122T100000
-DTEND;TZID=America/New_York:20261122T170000
-SUMMARY:Dixie Gun & Knife Show\, Raleigh
-LOCATION:NC State Fairgrounds\, 1025 Blue Ridge Rd\, Raleigh\, NC 27607
-DESCRIPTION:Gun & knife show\; both days confirmed on the NC State Fair eve
- nt calendar. Building and price not confirmed\, so check with the promoter
- .\nPrice: ~$9 (confirm with promoter)\nCategory: firearms\nhttps://hopmuni
- tions.com/north-carolina-gun-shows-schedule
-URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:76073120f3c7e0a6@local-events-feed
-DTSTAMP:20261017T161130Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-SUMMARY:NCRVDA Raleigh Used RV Sale
-LOCATION:NC State Fairgrounds\, 4285 Trinity Rd\, Raleigh\, NC 27607
-DESCRIPTION:NC RV Dealers Association used-RV show & sale. The fairgrounds 
- calendar lists Dec 11-12\, NCRVDA lists Dec 11-13\; hours not posted yet.\
- nPrice: Not yet posted\nCategory: RV\nhttps://www.northcarolinarvda.com/
-URL:https://www.northcarolinarvda.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:06b12fc8b64d9e20@local-events-feed
-DTSTAMP:20261017T161130Z
-DTSTART;TZID=America/New_York:20261212T090000
-DTEND;TZID=America/New_York:20261212T170000
-SUMMARY:C&E Capital City Gun Show
-LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
- eigh\, NC 27607
-DESCRIPTION:Quarterly C&E gun show at the fairgrounds. Building may be the 
- Agri Supply Expo Center\; confirm at cegunshows.com.\nPrice: Adults $12\, 
- 12 & under free\, cash only\nCategory: firearms\nhttps://www.cegunshows.co
- m/
-URL:https://www.cegunshows.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:bdb477d72c9b5c77@local-events-feed
-DTSTAMP:20261017T161130Z
-DTSTART;TZID=America/New_York:20261213T100000
-DTEND;TZID=America/New_York:20261213T170000
-SUMMARY:C&E Capital City Gun Show
-LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
- eigh\, NC 27607
-DESCRIPTION:Quarterly C&E gun show at the fairgrounds. Building may be the 
- Agri Supply Expo Center\; confirm at cegunshows.com.\nPrice: Adults $12\, 
- 12 & under free\, cash only\nCategory: firearms\nhttps://www.cegunshows.co
- m/
-URL:https://www.cegunshows.com/
+UID:e48a9a7af19d5f3f@local-events-feed
+DTSTAMP:20261017T214657Z
+DTSTART;TZID=America/New_York:20261114T093000
+DTEND;TZID=America/New_York:20261114T113000
+SUMMARY:Porsche Cary Cars & Coffee
+LOCATION:Porsche Cary\, 700 Auto Park Blvd\, Cary\, NC 27511
+DESCRIPTION:Monthly dealer-hosted Cars & Coffee (2nd Saturday) at the Cary 
+ Porsche store\; Porsche-heavy but all marques welcome\, so VW/Audi owners 
+ fit in. Dealer site says 9:30-11:30am\, some listings say 8am\; verify on 
+ the dealer page or Facebook.\nPrice: Free\nCategory: VW/VAG\nhttps://cary.
+ porsche.com/en/cars-and-coffee
+URL:https://cary.porsche.com/en/cars-and-coffee
 END:VEVENT
 BEGIN:VEVENT
 UID:51c8d04aa66c4001@local-events-feed
-DTSTAMP:20261017T161130Z
+DTSTAMP:20261017T214657Z
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T160000
 SUMMARY:Bentonville Battlefield Fall Festival
@@ -117,8 +65,34 @@ DESCRIPTION:Historic trades demos\, wagon rides\, live music and food truck
 URL:https://www.visitnc.com/events/bentonville-battlefield-fall-festival-0
 END:VEVENT
 BEGIN:VEVENT
+UID:a50b610b2ddafef4@local-events-feed
+DTSTAMP:20261017T214657Z
+DTSTART;TZID=America/New_York:20261121T090000
+DTEND;TZID=America/New_York:20261121T170000
+SUMMARY:Dixie Gun & Knife Show\, Raleigh
+LOCATION:NC State Fairgrounds\, 1025 Blue Ridge Rd\, Raleigh\, NC 27607
+DESCRIPTION:Gun & knife show\; both days confirmed on the NC State Fair eve
+ nt calendar. Building and price not confirmed\, so check with the promoter
+ .\nPrice: ~$9 (confirm with promoter)\nCategory: firearms\nhttps://hopmuni
+ tions.com/north-carolina-gun-shows-schedule
+URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:a9e51513ff965e38@local-events-feed
+DTSTAMP:20261017T214657Z
+DTSTART;TZID=America/New_York:20261122T100000
+DTEND;TZID=America/New_York:20261122T170000
+SUMMARY:Dixie Gun & Knife Show\, Raleigh
+LOCATION:NC State Fairgrounds\, 1025 Blue Ridge Rd\, Raleigh\, NC 27607
+DESCRIPTION:Gun & knife show\; both days confirmed on the NC State Fair eve
+ nt calendar. Building and price not confirmed\, so check with the promoter
+ .\nPrice: ~$9 (confirm with promoter)\nCategory: firearms\nhttps://hopmuni
+ tions.com/north-carolina-gun-shows-schedule
+URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
+END:VEVENT
+BEGIN:VEVENT
 UID:80b9fa0feb4a2de0@local-events-feed
-DTSTAMP:20261017T161130Z
+DTSTAMP:20261017T214657Z
 DTSTART;TZID=America/New_York:20261205T170000
 DTEND;TZID=America/New_York:20261205T203000
 SUMMARY:In Heavenly Peace: Bentonville Christmas Open House
@@ -131,5 +105,59 @@ DESCRIPTION:Evening open house: candlelit Harper House\, a soldiers' camp\,
  se/18/
 URL:https://www.johnstoncountync.org/event/in-heavenly-peace:-bentonville-c
  hristmas-open-house/18/
+END:VEVENT
+BEGIN:VEVENT
+UID:76073120f3c7e0a6@local-events-feed
+DTSTAMP:20261017T214657Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+SUMMARY:NCRVDA Raleigh Used RV Sale
+LOCATION:NC State Fairgrounds\, 4285 Trinity Rd\, Raleigh\, NC 27607
+DESCRIPTION:NC RV Dealers Association used-RV show & sale. The fairgrounds 
+ calendar lists Dec 11-12\, NCRVDA lists Dec 11-13\; hours not posted yet.\
+ nPrice: Not yet posted\nCategory: RV\nhttps://www.northcarolinarvda.com/
+URL:https://www.northcarolinarvda.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:06b12fc8b64d9e20@local-events-feed
+DTSTAMP:20261017T214657Z
+DTSTART;TZID=America/New_York:20261212T090000
+DTEND;TZID=America/New_York:20261212T170000
+SUMMARY:C&E Capital City Gun Show
+LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
+ eigh\, NC 27607
+DESCRIPTION:Quarterly C&E gun show at the fairgrounds. Building may be the 
+ Agri Supply Expo Center\; confirm at cegunshows.com.\nPrice: Adults $12\, 
+ 12 & under free\, cash only\nCategory: firearms\nhttps://www.cegunshows.co
+ m/
+URL:https://www.cegunshows.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:09ef83fe83174c98@local-events-feed
+DTSTAMP:20261017T214657Z
+DTSTART;TZID=America/New_York:20261212T093000
+DTEND;TZID=America/New_York:20261212T113000
+SUMMARY:Porsche Cary Cars & Coffee
+LOCATION:Porsche Cary\, 700 Auto Park Blvd\, Cary\, NC 27511
+DESCRIPTION:Monthly dealer-hosted Cars & Coffee (2nd Saturday) at the Cary 
+ Porsche store\; Porsche-heavy but all marques welcome\, so VW/Audi owners 
+ fit in. Dealer site says 9:30-11:30am\, some listings say 8am\; verify on 
+ the dealer page or Facebook.\nPrice: Free\nCategory: VW/VAG\nhttps://cary.
+ porsche.com/en/cars-and-coffee
+URL:https://cary.porsche.com/en/cars-and-coffee
+END:VEVENT
+BEGIN:VEVENT
+UID:bdb477d72c9b5c77@local-events-feed
+DTSTAMP:20261017T214657Z
+DTSTART;TZID=America/New_York:20261213T100000
+DTEND;TZID=America/New_York:20261213T170000
+SUMMARY:C&E Capital City Gun Show
+LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
+ eigh\, NC 27607
+DESCRIPTION:Quarterly C&E gun show at the fairgrounds. Building may be the 
+ Agri Supply Expo Center\; confirm at cegunshows.com.\nPrice: Adults $12\, 
+ 12 & under free\, cash only\nCategory: firearms\nhttps://www.cegunshows.co
+ m/
+URL:https://www.cegunshows.com/
 END:VEVENT
 END:VCALENDAR
