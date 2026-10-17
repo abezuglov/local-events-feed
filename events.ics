@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:c2d46478805a2f6d@local-events-feed
-DTSTAMP:20261017T161027Z
+DTSTAMP:20261017T161130Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T170000
 SUMMARY:Raleigh Fall Train Show (42nd annual)
@@ -23,7 +23,7 @@ URL:https://www.nmra.com/node/6061
 END:VEVENT
 BEGIN:VEVENT
 UID:cdeae762ae43ad0a@local-events-feed
-DTSTAMP:20261017T161027Z
+DTSTAMP:20261017T161130Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T160000
 SUMMARY:Raleigh Fall Train Show (42nd annual)
@@ -37,7 +37,7 @@ URL:https://www.nmra.com/node/6061
 END:VEVENT
 BEGIN:VEVENT
 UID:a50b610b2ddafef4@local-events-feed
-DTSTAMP:20261017T161027Z
+DTSTAMP:20261017T161130Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T170000
 SUMMARY:Dixie Gun & Knife Show\, Raleigh
@@ -50,7 +50,7 @@ URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:a9e51513ff965e38@local-events-feed
-DTSTAMP:20261017T161027Z
+DTSTAMP:20261017T161130Z
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T170000
 SUMMARY:Dixie Gun & Knife Show\, Raleigh
@@ -62,8 +62,20 @@ DESCRIPTION:Gun & knife show\; both days confirmed on the NC State Fair eve
 URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
 END:VEVENT
 BEGIN:VEVENT
+UID:76073120f3c7e0a6@local-events-feed
+DTSTAMP:20261017T161130Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+SUMMARY:NCRVDA Raleigh Used RV Sale
+LOCATION:NC State Fairgrounds\, 4285 Trinity Rd\, Raleigh\, NC 27607
+DESCRIPTION:NC RV Dealers Association used-RV show & sale. The fairgrounds 
+ calendar lists Dec 11-12\, NCRVDA lists Dec 11-13\; hours not posted yet.\
+ nPrice: Not yet posted\nCategory: RV\nhttps://www.northcarolinarvda.com/
+URL:https://www.northcarolinarvda.com/
+END:VEVENT
+BEGIN:VEVENT
 UID:06b12fc8b64d9e20@local-events-feed
-DTSTAMP:20261017T161027Z
+DTSTAMP:20261017T161130Z
 DTSTART;TZID=America/New_York:20261212T090000
 DTEND;TZID=America/New_York:20261212T170000
 SUMMARY:C&E Capital City Gun Show
@@ -77,7 +89,7 @@ URL:https://www.cegunshows.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:bdb477d72c9b5c77@local-events-feed
-DTSTAMP:20261017T161027Z
+DTSTAMP:20261017T161130Z
 DTSTART;TZID=America/New_York:20261213T100000
 DTEND;TZID=America/New_York:20261213T170000
 SUMMARY:C&E Capital City Gun Show
@@ -90,15 +102,34 @@ DESCRIPTION:Quarterly C&E gun show at the fairgrounds. Building may be the
 URL:https://www.cegunshows.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:76073120f3c7e0a6@local-events-feed
-DTSTAMP:20261017T161027Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-SUMMARY:NCRVDA Raleigh Used RV Sale
-LOCATION:NC State Fairgrounds\, 4285 Trinity Rd\, Raleigh\, NC 27607
-DESCRIPTION:NC RV Dealers Association used-RV show & sale. The fairgrounds 
- calendar lists Dec 11-12\, NCRVDA lists Dec 11-13\; hours not posted yet.\
- nPrice: Not yet posted\nCategory: RV\nhttps://www.northcarolinarvda.com/
-URL:https://www.northcarolinarvda.com/
+UID:51c8d04aa66c4001@local-events-feed
+DTSTAMP:20261017T161130Z
+DTSTART;TZID=America/New_York:20261114T100000
+DTEND;TZID=America/New_York:20261114T160000
+SUMMARY:Bentonville Battlefield Fall Festival
+LOCATION:Bentonville Battlefield State Historic Site\, 5466 Harper House Rd
+ \, Four Oaks\, NC 27524
+DESCRIPTION:Historic trades demos\, wagon rides\, live music and food truck
+ s at the Civil War battlefield (~40 mi). VisitNC says Nov 14 and Johnston 
+ County says Nov 7\; confirm at (910) 594-0789.\nPrice: $5 adults\, 8 & und
+ er free\nCategory: historic reenactment\nhttps://www.visitnc.com/events/be
+ ntonville-battlefield-fall-festival-0
+URL:https://www.visitnc.com/events/bentonville-battlefield-fall-festival-0
+END:VEVENT
+BEGIN:VEVENT
+UID:80b9fa0feb4a2de0@local-events-feed
+DTSTAMP:20261017T161130Z
+DTSTART;TZID=America/New_York:20261205T170000
+DTEND;TZID=America/New_York:20261205T203000
+SUMMARY:In Heavenly Peace: Bentonville Christmas Open House
+LOCATION:Bentonville Battlefield State Historic Site\, 5466 Harper House Rd
+ \, Four Oaks\, NC 27524
+DESCRIPTION:Evening open house: candlelit Harper House\, a soldiers' camp\,
+  period music\, wagon rides. Canceled if it rains\; call (910) 594-0789.\n
+ Price: $5\, 8 & under free\nCategory: historic reenactment\nhttps://www.jo
+ hnstoncountync.org/event/in-heavenly-peace:-bentonville-christmas-open-hou
+ se/18/
+URL:https://www.johnstoncountync.org/event/in-heavenly-peace:-bentonville-c
+ hristmas-open-house/18/
 END:VEVENT
 END:VCALENDAR

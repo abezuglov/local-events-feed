@@ -22,6 +22,17 @@
     "description": "Neuse River Valley Model RR Club show: 500+ vendor tables, 16 operating layouts G to Z scale. Some listings give 4825 Trinity Rd; confirm at nrvclub.net."
   },
   {
+    "title": "Bentonville Battlefield Fall Festival",
+    "start": "2026-11-14T10:00",
+    "end": "2026-11-14T16:00",
+    "venue": "Bentonville Battlefield State Historic Site",
+    "address": "5466 Harper House Rd, Four Oaks, NC 27524",
+    "url": "https://www.visitnc.com/events/bentonville-battlefield-fall-festival-0",
+    "price": "$5 adults, 8 & under free",
+    "category": "historic reenactment",
+    "description": "Historic trades demos, wagon rides, live music and food trucks at the Civil War battlefield (~40 mi). VisitNC says Nov 14 and Johnston County says Nov 7; confirm at (910) 594-0789."
+  },
+  {
     "title": "Dixie Gun & Knife Show, Raleigh",
     "start": "2026-11-21T09:00",
     "end": "2026-11-21T17:00",
@@ -42,6 +53,17 @@
     "price": "~$9 (confirm with promoter)",
     "category": "firearms",
     "description": "Gun & knife show; both days confirmed on the NC State Fair event calendar. Building and price not confirmed, so check with the promoter."
+  },
+  {
+    "title": "In Heavenly Peace: Bentonville Christmas Open House",
+    "start": "2026-12-05T17:00",
+    "end": "2026-12-05T20:30",
+    "venue": "Bentonville Battlefield State Historic Site",
+    "address": "5466 Harper House Rd, Four Oaks, NC 27524",
+    "url": "https://www.johnstoncountync.org/event/in-heavenly-peace:-bentonville-christmas-open-house/18/",
+    "price": "$5, 8 & under free",
+    "category": "historic reenactment",
+    "description": "Evening open house: candlelit Harper House, a soldiers' camp, period music, wagon rides. Canceled if it rains; call (910) 594-0789."
   },
   {
     "title": "NCRVDA Raleigh Used RV Sale",

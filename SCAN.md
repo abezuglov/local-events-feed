@@ -27,5 +27,5 @@ You are the weekly local-events scanner. Do this, then stop:
 - BMW motorcycles: Tar Heel Travelers (BMW MOA club, Raleigh area, tarheelbmw.org); BMW Motorcycles of Cape Fear demo days; Tobacco Road Harley-Davidson's fall Rally in Raleigh/Capital City Bikefest (general motorcycle event).
 - Climbing: Triangle Rock Club (Morrisville and Raleigh); NC State Wellness & Rec Halloween "Boulder Bash"; Carolina Climbers' Coalition events.
 - RV: NCRVDA shows at the fairgrounds (Feb and Aug, northcarolinarvda.com).
-- Historic reenactment: NC Historic Sites calendar (events.dncr.nc.gov), especially Bennett Place in Durham (Civil War Christmas in December), Historic Oak View, Mordecai, Duke Homestead, Joel Lane House. Bentonville and Alamance Battleground are outside the radius.
+- Historic reenactment: NC Historic Sites calendar (events.dncr.nc.gov), especially Bennett Place in Durham (Civil War Christmas in December), Historic Oak View, Mordecai, Duke Homestead, Joel Lane House. Within 50 miles: Bentonville Battlefield (Four Oaks), Alamance Battleground, Historic Halifax, Hillsborough (Burwell School, Ayr Mount, Occoneechee Speedway), Fort Bragg-area museums.
 - Camping: NC State Parks events at Umstead and Jordan Lake (Umstead camping closes Oct 31).

@@ -1,6 +1,6 @@
 {
   "location": "Cary, NC 27511",
-  "radius_miles": 10,
+  "radius_miles": 50,
   "timezone": "America/New_York",
   "horizon_days": 60,
   "interests": [
