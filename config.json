@@ -1,0 +1,21 @@
+{
+  "location": "Cary, NC 27511",
+  "radius_miles": 10,
+  "timezone": "America/New_York",
+  "horizon_days": 60,
+  "interests": [
+    "BMW motorcycles: BMW MOA / local BMW riders club meetups, rallies, dealer events, group rides, motorcycle shows",
+    "historic reenactment: Revolutionary War, Civil War, colonial and living-history events at historic sites and battlefields",
+    "camping: campouts, outdoor skills workshops, state park programs",
+    "RV: RV shows, rallies, RV club gatherings and expos",
+    "rock climbing: climbing gym events, comps, clinics, outdoor crag meetups and cleanups",
+    "modeling: scale model shows and contests (IPMS), model railroad shows, RC model events",
+    "firearms: gun shows, shooting competitions and matches, range days, safety and carry courses"
+  ],
+  "avoid": [
+    "online-only events",
+    "events requiring membership to attend",
+    "recurring generic happy hours"
+  ],
+  "max_events_per_scan": 25
+}

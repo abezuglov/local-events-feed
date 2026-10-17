@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//local-events-feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Local Events
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:c2d46478805a2f6d@local-events-feed
+DTSTAMP:20261017T160927Z
+DTSTART;TZID=America/New_York:20261107T090000
+DTEND;TZID=America/New_York:20261107T170000
+SUMMARY:Raleigh Fall Train Show (42nd annual)
+LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
+ eigh\, NC 27607
+DESCRIPTION:Neuse River Valley Model RR Club show: 500+ vendor tables\, 16 
+ operating layouts G to Z scale. Some listings give 4825 Trinity Rd\; confi
+ rm at nrvclub.net.\nPrice: $10 (good both days)\, 12 & under free\nCategor
+ y: modeling\nhttps://www.nmra.com/node/6061
+URL:https://www.nmra.com/node/6061
+END:VEVENT
+BEGIN:VEVENT
+UID:cdeae762ae43ad0a@local-events-feed
+DTSTAMP:20261017T160927Z
+DTSTART;TZID=America/New_York:20261108T100000
+DTEND;TZID=America/New_York:20261108T160000
+SUMMARY:Raleigh Fall Train Show (42nd annual)
+LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
+ eigh\, NC 27607
+DESCRIPTION:Neuse River Valley Model RR Club show: 500+ vendor tables\, 16 
+ operating layouts G to Z scale. Some listings give 4825 Trinity Rd\; confi
+ rm at nrvclub.net.\nPrice: $10 (good both days)\, 12 & under free\nCategor
+ y: modeling\nhttps://www.nmra.com/node/6061
+URL:https://www.nmra.com/node/6061
+END:VEVENT
+BEGIN:VEVENT
+UID:a50b610b2ddafef4@local-events-feed
+DTSTAMP:20261017T160927Z
+DTSTART;TZID=America/New_York:20261121T090000
+DTEND;TZID=America/New_York:20261121T170000
+SUMMARY:Dixie Gun & Knife Show\, Raleigh
+LOCATION:NC State Fairgrounds\, 1025 Blue Ridge Rd\, Raleigh\, NC 27607
+DESCRIPTION:Gun & knife show. Listings disagree on whether it runs one or t
+ wo days and on the building\, so verify before going.\nPrice: ~$9 (confirm
+  with promoter)\nCategory: firearms\nhttps://hopmunitions.com/north-caroli
+ na-gun-shows-schedule
+URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:a9e51513ff965e38@local-events-feed
+DTSTAMP:20261017T160927Z
+DTSTART;TZID=America/New_York:20261122T100000
+DTEND;TZID=America/New_York:20261122T170000
+SUMMARY:Dixie Gun & Knife Show\, Raleigh
+LOCATION:NC State Fairgrounds\, 1025 Blue Ridge Rd\, Raleigh\, NC 27607
+DESCRIPTION:Gun & knife show. Listings disagree on whether it runs one or t
+ wo days and on the building\, so verify before going.\nPrice: ~$9 (confirm
+  with promoter)\nCategory: firearms\nhttps://hopmunitions.com/north-caroli
+ na-gun-shows-schedule
+URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:06b12fc8b64d9e20@local-events-feed
+DTSTAMP:20261017T160927Z
+DTSTART;TZID=America/New_York:20261212T090000
+DTEND;TZID=America/New_York:20261212T170000
+SUMMARY:C&E Capital City Gun Show
+LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
+ eigh\, NC 27607
+DESCRIPTION:Quarterly C&E gun show at the fairgrounds. Building may be the 
+ Agri Supply Expo Center\; confirm at cegunshows.com.\nPrice: Adults $12\, 
+ 12 & under free\, cash only\nCategory: firearms\nhttps://www.cegunshows.co
+ m/
+URL:https://www.cegunshows.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:bdb477d72c9b5c77@local-events-feed
+DTSTAMP:20261017T160927Z
+DTSTART;TZID=America/New_York:20261213T100000
+DTEND;TZID=America/New_York:20261213T170000
+SUMMARY:C&E Capital City Gun Show
+LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
+ eigh\, NC 27607
+DESCRIPTION:Quarterly C&E gun show at the fairgrounds. Building may be the 
+ Agri Supply Expo Center\; confirm at cegunshows.com.\nPrice: Adults $12\, 
+ 12 & under free\, cash only\nCategory: firearms\nhttps://www.cegunshows.co
+ m/
+URL:https://www.cegunshows.com/
+END:VEVENT
+END:VCALENDAR
