@@ -6,7 +6,8 @@ You are the weekly local-events scanner. Do this, then stop:
 2. Web-search for events within `radius_miles` of `location` from today through today + `horizon_days`. Use several searches per interest (city event calendars, local alt-weekly listings, museum/venue sites, Eventbrite, Meetup, parks departments, sports schedules). Prefer the venue's or organizer's own page.
 3. Keep only events that clearly match an interest, are in person, have a confirmed date and time, and don't hit the `avoid` list. Verify details on the event page; skip anything you can't confirm. Pick the best `max_events_per_scan` new ones.
 4. Append new events to `events.json` (skip ones already present — same title + date + venue). Fields:
-   `title`, `start` ("YYYY-MM-DDTHH:MM" local time, or "YYYY-MM-DD" for all-day), `end` (optional, same format), `venue`, `address`, `url`, `price`, `category`, `description` (1-2 sentences on why it fits).
+   `title`, `start` ("YYYY-MM-DDTHH:MM" local time, or "YYYY-MM-DD" for all-day), `end` (optional, same format), `venue`, `address`, `url`, `price`, `category`, `drive` (approximate distance and drive time from Cary 27511, e.g. "~9 mi, ~15 min"; estimate from the venue's location, since there's no maps access), `description` (1-2 sentences on why it fits).
+   Skip events more than `radius_miles` away by road.
    If an existing event was cancelled or moved, update or remove it.
 5. Run `python3 build_ics.py` (it prunes past events and regenerates `events.ics`).
 6. Commit `events.json` and `events.ics` with message "Weekly scan YYYY-MM-DD: N new events" and push to `main` directly.
@@ -28,5 +29,5 @@ You are the weekly local-events scanner. Do this, then stop:
 - VW/VAG: search for Triangle-area VW and Audi meets (Volkswagen Club of America and Audi Club North America local chapters, VW/Audi dealer events, Facebook/Instagram meet groups that show up in search snippets, VW-specific Cars & Coffee or cruise-ins in Raleigh, Cary, Durham, Wake Forest). General Cars & Coffee only counts if the listing calls out VW/VAG. Check also for larger regional VW shows within 50 miles.
 - Climbing: Triangle Rock Club (Morrisville and Raleigh); NC State Wellness & Rec Halloween "Boulder Bash"; Carolina Climbers' Coalition events.
 - RV: NCRVDA shows at the fairgrounds (Feb and Aug, northcarolinarvda.com).
-- Historic reenactment: NC Historic Sites calendar (events.dncr.nc.gov), especially Bennett Place in Durham (Civil War Christmas in December), Historic Oak View, Mordecai, Duke Homestead, Joel Lane House. Within 50 miles: Bentonville Battlefield (Four Oaks), Alamance Battleground, Historic Halifax, Hillsborough (Burwell School, Ayr Mount, Occoneechee Speedway), Fort Bragg-area museums.
+- Historic reenactment: NC Historic Sites calendar (events.dncr.nc.gov), especially Bennett Place in Durham (Civil War Christmas in December), Historic Oak View, Mordecai, Duke Homestead, Joel Lane House. Hillsborough (~30 mi) is borderline; Bentonville, Alamance and Halifax are too far.
 - Camping: NC State Parks events at Umstead and Jordan Lake (Umstead camping closes Oct 31).

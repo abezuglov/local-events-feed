@@ -58,8 +58,10 @@ for e in events:
         lines += [f"DTSTART;VALUE=DATE:{start:%Y%m%d}", f"DTEND;VALUE=DATE:{end + timedelta(days=1):%Y%m%d}"]
     else:
         lines += [f"DTSTART;TZID={cfg['timezone']}:{start:%Y%m%dT%H%M%S}", f"DTEND;TZID={cfg['timezone']}:{end:%Y%m%dT%H%M%S}"]
-    desc = "\n".join(x for x in [e.get("description"), e.get("price") and f"Price: {e['price']}", e.get("category") and f"Category: {e['category']}", e.get("url")] if x)
-    lines += [f"SUMMARY:{esc(e['title'])}", f"LOCATION:{esc(', '.join(x for x in [e.get('venue'), e.get('address')] if x))}", f"DESCRIPTION:{esc(desc)}"]
+    desc = "\n".join(x for x in [e.get("drive") and f"Drive from Cary: {e['drive']}", e.get("description"), e.get("price") and f"Price: {e['price']}", e.get("category") and f"Category: {e['category']}", e.get("url")] if x)
+    # Show the drive time ("~15 min") in the title so it's visible in calendar views.
+    summary = e["title"] + (f" ({e['drive'].split(',')[-1].strip()})" if e.get("drive") else "")
+    lines += [f"SUMMARY:{esc(summary)}",f"LOCATION:{esc(', '.join(x for x in [e.get('venue'), e.get('address')] if x))}", f"DESCRIPTION:{esc(desc)}"]
     if e.get("url"):
         lines.append(f"URL:{e['url']}")
     lines.append("END:VEVENT")
