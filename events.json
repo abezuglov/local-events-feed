@@ -8,7 +8,8 @@
     "url": "https://www.nmra.com/node/6061",
     "price": "$10 (good both days), 12 & under free",
     "category": "modeling",
-    "description": "Neuse River Valley Model RR Club show: 500+ vendor tables, 16 operating layouts G to Z scale. Some listings give 4825 Trinity Rd; confirm at nrvclub.net."
+    "description": "Neuse River Valley Model RR Club show: 500+ vendor tables, 16 operating layouts G to Z scale. Some listings give 4825 Trinity Rd; confirm at nrvclub.net.",
+    "drive": "~9 mi, ~15 min"
   },
   {
     "title": "Raleigh Fall Train Show (42nd annual)",
@@ -19,7 +20,8 @@
     "url": "https://www.nmra.com/node/6061",
     "price": "$10 (good both days), 12 & under free",
     "category": "modeling",
-    "description": "Neuse River Valley Model RR Club show: 500+ vendor tables, 16 operating layouts G to Z scale. Some listings give 4825 Trinity Rd; confirm at nrvclub.net."
+    "description": "Neuse River Valley Model RR Club show: 500+ vendor tables, 16 operating layouts G to Z scale. Some listings give 4825 Trinity Rd; confirm at nrvclub.net.",
+    "drive": "~9 mi, ~15 min"
   },
   {
     "title": "Porsche Cary Cars & Coffee",
@@ -30,18 +32,8 @@
     "category": "VW/VAG",
     "description": "Monthly dealer-hosted Cars & Coffee (2nd Saturday) at the Cary Porsche store; Porsche-heavy but all marques welcome, so VW/Audi owners fit in. Dealer site says 9:30-11:30am, some listings say 8am; verify on the dealer page or Facebook.",
     "start": "2026-11-14T09:30",
-    "end": "2026-11-14T11:30"
-  },
-  {
-    "title": "Bentonville Battlefield Fall Festival",
-    "start": "2026-11-14T10:00",
-    "end": "2026-11-14T16:00",
-    "venue": "Bentonville Battlefield State Historic Site",
-    "address": "5466 Harper House Rd, Four Oaks, NC 27524",
-    "url": "https://www.visitnc.com/events/bentonville-battlefield-fall-festival-0",
-    "price": "$5 adults, 8 & under free",
-    "category": "historic reenactment",
-    "description": "Historic trades demos, wagon rides, live music and food trucks at the Civil War battlefield (~40 mi). VisitNC says Nov 14 and Johnston County says Nov 7; confirm at (910) 594-0789."
+    "end": "2026-11-14T11:30",
+    "drive": "~3 mi, ~10 min"
   },
   {
     "title": "Dixie Gun & Knife Show, Raleigh",
@@ -52,7 +44,8 @@
     "url": "https://hopmunitions.com/north-carolina-gun-shows-schedule",
     "price": "~$9 (confirm with promoter)",
     "category": "firearms",
-    "description": "Gun & knife show; both days confirmed on the NC State Fair event calendar. Building and price not confirmed, so check with the promoter."
+    "description": "Gun & knife show; both days confirmed on the NC State Fair event calendar. Building and price not confirmed, so check with the promoter.",
+    "drive": "~9 mi, ~15 min"
   },
   {
     "title": "Dixie Gun & Knife Show, Raleigh",
@@ -63,18 +56,8 @@
     "url": "https://hopmunitions.com/north-carolina-gun-shows-schedule",
     "price": "~$9 (confirm with promoter)",
     "category": "firearms",
-    "description": "Gun & knife show; both days confirmed on the NC State Fair event calendar. Building and price not confirmed, so check with the promoter."
-  },
-  {
-    "title": "In Heavenly Peace: Bentonville Christmas Open House",
-    "start": "2026-12-05T17:00",
-    "end": "2026-12-05T20:30",
-    "venue": "Bentonville Battlefield State Historic Site",
-    "address": "5466 Harper House Rd, Four Oaks, NC 27524",
-    "url": "https://www.johnstoncountync.org/event/in-heavenly-peace:-bentonville-christmas-open-house/18/",
-    "price": "$5, 8 & under free",
-    "category": "historic reenactment",
-    "description": "Evening open house: candlelit Harper House, a soldiers' camp, period music, wagon rides. Canceled if it rains; call (910) 594-0789."
+    "description": "Gun & knife show; both days confirmed on the NC State Fair event calendar. Building and price not confirmed, so check with the promoter.",
+    "drive": "~9 mi, ~15 min"
   },
   {
     "title": "NCRVDA Raleigh Used RV Sale",
@@ -85,7 +68,8 @@
     "url": "https://www.northcarolinarvda.com/",
     "price": "Not yet posted",
     "category": "RV",
-    "description": "NC RV Dealers Association used-RV show & sale. The fairgrounds calendar lists Dec 11-12, NCRVDA lists Dec 11-13; hours not posted yet."
+    "description": "NC RV Dealers Association used-RV show & sale. The fairgrounds calendar lists Dec 11-12, NCRVDA lists Dec 11-13; hours not posted yet.",
+    "drive": "~9 mi, ~15 min"
   },
   {
     "title": "C&E Capital City Gun Show",
@@ -96,7 +80,8 @@
     "url": "https://www.cegunshows.com/",
     "price": "Adults $12, 12 & under free, cash only",
     "category": "firearms",
-    "description": "Quarterly C&E gun show at the fairgrounds. Building may be the Agri Supply Expo Center; confirm at cegunshows.com."
+    "description": "Quarterly C&E gun show at the fairgrounds. Building may be the Agri Supply Expo Center; confirm at cegunshows.com.",
+    "drive": "~9 mi, ~15 min"
   },
   {
     "title": "Porsche Cary Cars & Coffee",
@@ -107,7 +92,8 @@
     "category": "VW/VAG",
     "description": "Monthly dealer-hosted Cars & Coffee (2nd Saturday) at the Cary Porsche store; Porsche-heavy but all marques welcome, so VW/Audi owners fit in. Dealer site says 9:30-11:30am, some listings say 8am; verify on the dealer page or Facebook.",
     "start": "2026-12-12T09:30",
-    "end": "2026-12-12T11:30"
+    "end": "2026-12-12T11:30",
+    "drive": "~3 mi, ~10 min"
   },
   {
     "title": "C&E Capital City Gun Show",
@@ -118,6 +104,7 @@
     "url": "https://www.cegunshows.com/",
     "price": "Adults $12, 12 & under free, cash only",
     "category": "firearms",
-    "description": "Quarterly C&E gun show at the fairgrounds. Building may be the Agri Supply Expo Center; confirm at cegunshows.com."
+    "description": "Quarterly C&E gun show at the fairgrounds. Building may be the Agri Supply Expo Center; confirm at cegunshows.com.",
+    "drive": "~9 mi, ~15 min"
   }
 ]
