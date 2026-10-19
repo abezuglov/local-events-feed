@@ -1,5 +1,17 @@
 [
   {
+    "title": "Fly-In and Cruise-In, Lumberton",
+    "start": "2026-10-24T10:00",
+    "end": "2026-10-24T14:00",
+    "venue": "Lumberton Regional Airport",
+    "address": "163 Airport Blvd, Lumberton, NC 28358",
+    "url": "https://www.visitnc.com/events/fly-and-cruise",
+    "price": "Free",
+    "category": "air shows",
+    "drive": "~90 mi, ~1 hr 30 min",
+    "description": "Day trip: aircraft on display alongside classic and show cars, food and craft vendors, live music. Contact the airport at (910) 739-6480."
+  },
+  {
     "title": "Raleigh Fall Train Show (42nd annual)",
     "start": "2026-11-07T09:00",
     "end": "2026-11-07T17:00",
@@ -12,6 +24,17 @@
     "drive": "~9 mi, ~15 min"
   },
   {
+    "venue": "Fort Branch Civil War Site",
+    "address": "2883 Fort Branch Rd, Oak City, NC 27857",
+    "url": "https://fortbranchcivilwarsite.com/",
+    "category": "historic reenactment",
+    "drive": "~110 mi, ~2 hr",
+    "price": "Not listed; check the site",
+    "title": "Fort Branch Battlefield Re-enactment",
+    "start": "2026-11-07T13:30",
+    "description": "Day trip: annual Civil War battle reenactment and living-history camp on the Roanoke River earthworks; battle starts 1:30pm. Organizer says 'planned until further notice', so check the site before driving."
+  },
+  {
     "title": "Raleigh Fall Train Show (42nd annual)",
     "start": "2026-11-08T10:00",
     "end": "2026-11-08T16:00",
@@ -22,6 +45,17 @@
     "category": "modeling",
     "description": "Neuse River Valley Model RR Club show: 500+ vendor tables, 16 operating layouts G to Z scale. The fairgrounds calendar now lists the Agri-Supply Exposition Center (earlier listings said Jim Graham Building); confirm at nrvclub.net.",
     "drive": "~9 mi, ~15 min"
+  },
+  {
+    "venue": "Fort Branch Civil War Site",
+    "address": "2883 Fort Branch Rd, Oak City, NC 27857",
+    "url": "https://fortbranchcivilwarsite.com/",
+    "category": "historic reenactment",
+    "drive": "~110 mi, ~2 hr",
+    "price": "Not listed; check the site",
+    "title": "Fort Branch Battlefield Re-enactment",
+    "start": "2026-11-08T13:30",
+    "description": "Day trip: second day of the annual Civil War battle reenactment; battle starts 1:30pm. Organizer says 'planned until further notice', so check the site before driving."
   },
   {
     "title": "Porsche Cary Cars & Coffee",
@@ -48,6 +82,18 @@
     "drive": "~40 mi, ~45 min"
   },
   {
+    "venue": "New Hope Valley Railway",
+    "address": "3900 Bonsal Rd, New Hill, NC 27562",
+    "url": "https://www.triangletrain.com/",
+    "category": "railroads",
+    "drive": "~18 mi, ~25 min",
+    "title": "S'mores and Suds Train",
+    "start": "2026-11-14T14:00",
+    "end": "2026-11-14T16:30",
+    "price": "See Etix via triangletrain.com",
+    "description": "Heritage train ride on the New Hope Valley Railway with s'mores and beer (21+ for beer); departures at 2:00 and 3:30pm."
+  },
+  {
     "title": "Dixie Gun & Knife Show, Raleigh",
     "start": "2026-11-21T09:00",
     "end": "2026-11-21T17:00",
@@ -72,6 +118,18 @@
     "drive": "~9 mi, ~15 min"
   },
   {
+    "venue": "New Hope Valley Railway",
+    "address": "3900 Bonsal Rd, New Hill, NC 27562",
+    "url": "https://www.triangletrain.com/",
+    "category": "railroads",
+    "drive": "~18 mi, ~25 min",
+    "title": "Santa Express, New Hope Valley Railway",
+    "start": "2026-12-05T09:30",
+    "end": "2026-12-05T16:35",
+    "price": "See Etix via triangletrain.com",
+    "description": "Heritage train ride with Santa aboard; departures 9:30, 11:00, 12:30, 2:15, 3:45 (about 50 min each). Heated cabooses sell out early."
+  },
+  {
     "title": "In Heavenly Peace: Bentonville Christmas Open House",
     "start": "2026-12-05T17:00",
     "end": "2026-12-05T20:30",
@@ -82,6 +140,29 @@
     "category": "historic reenactment",
     "description": "Day trip: Evening open house: candlelit Harper House, a soldiers' camp, period music, wagon rides. Canceled if it rains; call (910) 594-0789.",
     "drive": "~40 mi, ~45 min"
+  },
+  {
+    "venue": "Fort Branch Civil War Site",
+    "address": "2883 Fort Branch Rd, Oak City, NC 27857",
+    "url": "https://fortbranchcivilwarsite.com/",
+    "category": "historic reenactment",
+    "drive": "~110 mi, ~2 hr",
+    "price": "Not listed; check the site",
+    "title": "Fort Branch Civil War Christmas",
+    "start": "2026-12-05T19:00",
+    "description": "Day trip: candlelight tour of recreated Civil War-era Christmas scenes at the fort. Late evening start, about 2 hours home."
+  },
+  {
+    "venue": "New Hope Valley Railway",
+    "address": "3900 Bonsal Rd, New Hill, NC 27562",
+    "url": "https://www.triangletrain.com/",
+    "category": "railroads",
+    "drive": "~18 mi, ~25 min",
+    "title": "Santa Express, New Hope Valley Railway",
+    "start": "2026-12-06T09:30",
+    "end": "2026-12-06T16:35",
+    "price": "See Etix via triangletrain.com",
+    "description": "Heritage train ride with Santa aboard; departures 9:30, 11:00, 12:30, 2:15, 3:45 (about 50 min each). Heated cabooses sell out early."
   },
   {
     "title": "NCRVDA Raleigh Used RV Sale",
@@ -120,6 +201,18 @@
     "drive": "~3 mi, ~10 min"
   },
   {
+    "venue": "New Hope Valley Railway",
+    "address": "3900 Bonsal Rd, New Hill, NC 27562",
+    "url": "https://www.triangletrain.com/",
+    "category": "railroads",
+    "drive": "~18 mi, ~25 min",
+    "title": "Santa Express, New Hope Valley Railway",
+    "start": "2026-12-12T09:30",
+    "end": "2026-12-12T16:35",
+    "price": "See Etix via triangletrain.com",
+    "description": "Heritage train ride with Santa aboard; departures 9:30, 11:00, 12:30, 2:15, 3:45 (about 50 min each). Heated cabooses sell out early."
+  },
+  {
     "title": "NCRVDA Raleigh Used RV Sale",
     "start": "2026-12-12T10:00",
     "end": "2026-12-12T19:00",
@@ -130,6 +223,18 @@
     "category": "RV",
     "description": "NC RV Dealers Association used-RV show & sale; dealers cut prices to clear inventory. Fairgrounds calendar gives Fri noon-7, Sat 10-7, Sun 10-4 but lists only Dec 11-12; NCRVDA lists Dec 11-13, so verify the Sunday before going.",
     "drive": "~9 mi, ~15 min"
+  },
+  {
+    "venue": "New Hope Valley Railway",
+    "address": "3900 Bonsal Rd, New Hill, NC 27562",
+    "url": "https://www.triangletrain.com/",
+    "category": "railroads",
+    "drive": "~18 mi, ~25 min",
+    "title": "Santa Express, New Hope Valley Railway",
+    "start": "2026-12-13T09:30",
+    "end": "2026-12-13T16:35",
+    "price": "See Etix via triangletrain.com",
+    "description": "Heritage train ride with Santa aboard; departures 9:30, 11:00, 12:30, 2:15, 3:45 (about 50 min each). Heated cabooses sell out early."
   },
   {
     "title": "NCRVDA Raleigh Used RV Sale",
