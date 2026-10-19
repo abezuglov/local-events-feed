@@ -1,12 +1,25 @@
 {
   "location": "Cary, NC 27511",
   "radius_miles": 25,
+  "extended_radius": {
+    "miles": 120,
+    "categories": [
+      "historic reenactment",
+      "air shows",
+      "balloon festivals",
+      "railroads"
+    ],
+    "note": "Destination events worth a longer drive. Also applies to large model railroad shows."
+  },
   "timezone": "America/New_York",
   "horizon_days": 60,
   "interests": [
     "BMW motorcycles: BMW MOA / local BMW riders club meetups, rallies, dealer events, group rides, motorcycle shows",
     "Volkswagen / VAG cars: VW, Audi, Porsche, Seat, Skoda enthusiast meets, club gatherings, car shows, cars & coffee and cruise-ins focused on VW/VAG",
     "historic reenactment: Revolutionary War, Civil War, colonial and living-history events at historic sites and battlefields",
+    "air shows: military and civilian air shows, fly-ins, warbird and aviation heritage days",
+    "balloon festivals: hot air balloon festivals, glows and mass ascensions",
+    "railroads: heritage and excursion trains, railroad museums, rail festivals and railfan days",
     "camping: campouts, outdoor skills workshops, state park programs",
     "RV: RV shows, rallies, RV club gatherings and expos",
     "rock climbing: climbing gym events, comps, clinics, outdoor crag meetups and cleanups",

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:82b9f7904cea2a0f@local-events-feed
-DTSTAMP:20261019T120232Z
+DTSTAMP:20261019T220655Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T170000
 SUMMARY:Raleigh Fall Train Show (42nd annual) (~15 min)
@@ -25,7 +25,7 @@ URL:https://www.nmra.com/node/6061
 END:VEVENT
 BEGIN:VEVENT
 UID:f984c5a62bba72a6@local-events-feed
-DTSTAMP:20261019T120232Z
+DTSTAMP:20261019T220655Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T160000
 SUMMARY:Raleigh Fall Train Show (42nd annual) (~15 min)
@@ -41,7 +41,7 @@ URL:https://www.nmra.com/node/6061
 END:VEVENT
 BEGIN:VEVENT
 UID:e48a9a7af19d5f3f@local-events-feed
-DTSTAMP:20261019T120232Z
+DTSTAMP:20261019T220655Z
 DTSTART;TZID=America/New_York:20261114T093000
 DTEND;TZID=America/New_York:20261114T113000
 SUMMARY:Porsche Cary Cars & Coffee (~10 min)
@@ -54,8 +54,23 @@ DESCRIPTION:Drive from Cary: ~3 mi\, ~10 min\nMonthly dealer-hosted Cars &
 URL:https://cary.porsche.com/en/cars-and-coffee
 END:VEVENT
 BEGIN:VEVENT
+UID:51c8d04aa66c4001@local-events-feed
+DTSTAMP:20261019T220655Z
+DTSTART;TZID=America/New_York:20261114T100000
+DTEND;TZID=America/New_York:20261114T160000
+SUMMARY:Bentonville Battlefield Fall Festival (~45 min)
+LOCATION:Bentonville Battlefield State Historic Site\, 5466 Harper House Rd
+ \, Four Oaks\, NC 27524
+DESCRIPTION:Drive from Cary: ~40 mi\, ~45 min\nDay trip: Historic trades de
+ mos\, wagon rides\, live music and food trucks at the Civil War battlefiel
+ d. VisitNC says Nov 14 and Johnston County says Nov 7\; confirm at (910) 5
+ 94-0789.\nPrice: $5 adults\, 8 & under free\nCategory: historic reenactmen
+ t\nhttps://www.visitnc.com/events/bentonville-battlefield-fall-festival-0
+URL:https://www.visitnc.com/events/bentonville-battlefield-fall-festival-0
+END:VEVENT
+BEGIN:VEVENT
 UID:3a010502a6b42bd5@local-events-feed
-DTSTAMP:20261019T120232Z
+DTSTAMP:20261019T220655Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T170000
 SUMMARY:Dixie Gun & Knife Show\, Raleigh (~15 min)
@@ -71,7 +86,7 @@ URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:635a1d23db797698@local-events-feed
-DTSTAMP:20261019T120232Z
+DTSTAMP:20261019T220655Z
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T170000
 SUMMARY:Dixie Gun & Knife Show\, Raleigh (~15 min)
@@ -86,8 +101,24 @@ DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nGun & knife show\; dates and
 URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
 END:VEVENT
 BEGIN:VEVENT
+UID:80b9fa0feb4a2de0@local-events-feed
+DTSTAMP:20261019T220655Z
+DTSTART;TZID=America/New_York:20261205T170000
+DTEND;TZID=America/New_York:20261205T203000
+SUMMARY:In Heavenly Peace: Bentonville Christmas Open House (~45 min)
+LOCATION:Bentonville Battlefield State Historic Site\, 5466 Harper House Rd
+ \, Four Oaks\, NC 27524
+DESCRIPTION:Drive from Cary: ~40 mi\, ~45 min\nDay trip: Evening open house
+ : candlelit Harper House\, a soldiers' camp\, period music\, wagon rides. 
+ Canceled if it rains\; call (910) 594-0789.\nPrice: $5\, 8 & under free\nC
+ ategory: historic reenactment\nhttps://www.johnstoncountync.org/event/in-h
+ eavenly-peace:-bentonville-christmas-open-house/18/
+URL:https://www.johnstoncountync.org/event/in-heavenly-peace:-bentonville-c
+ hristmas-open-house/18/
+END:VEVENT
+BEGIN:VEVENT
 UID:70ee6c536502cc1a@local-events-feed
-DTSTAMP:20261019T120232Z
+DTSTAMP:20261019T220655Z
 DTSTART;TZID=America/New_York:20261211T120000
 DTEND;TZID=America/New_York:20261211T190000
 SUMMARY:NCRVDA Raleigh Used RV Sale (~15 min)
@@ -101,8 +132,36 @@ DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nNC RV Dealers Association use
 URL:https://www.northcarolinarvda.com/
 END:VEVENT
 BEGIN:VEVENT
+UID:2d85e9b28f5163c6@local-events-feed
+DTSTAMP:20261019T220655Z
+DTSTART;TZID=America/New_York:20261212T090000
+DTEND;TZID=America/New_York:20261212T170000
+SUMMARY:C&E Capital City Gun Show (~15 min)
+LOCATION:NC State Fairgrounds\, Agri-Supply Exposition Center\, 4285 Trinit
+ y Rd\, Raleigh\, NC 27607
+DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nQuarterly C&E gun show\; the 
+ fairgrounds calendar lists it at the Agri-Supply Exposition Center with ma
+ tching hours and price. Confirm at cegunshows.com.\nPrice: Adults $12\, 12
+  & under free\, cash only\nCategory: firearms\nhttps://www.cegunshows.com/
+URL:https://www.cegunshows.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:09ef83fe83174c98@local-events-feed
+DTSTAMP:20261019T220655Z
+DTSTART;TZID=America/New_York:20261212T093000
+DTEND;TZID=America/New_York:20261212T113000
+SUMMARY:Porsche Cary Cars & Coffee (~10 min)
+LOCATION:Porsche Cary\, 700 Auto Park Blvd\, Cary\, NC 27511
+DESCRIPTION:Drive from Cary: ~3 mi\, ~10 min\nMonthly dealer-hosted Cars & 
+ Coffee (2nd Saturday) at the Cary Porsche store\; Porsche-heavy but all ma
+ rques welcome\, so VW/Audi owners fit in. Dealer site says 9:30-11:30am\, 
+ some listings say 8am\; verify on the dealer page or Facebook.\nPrice: Fre
+ e\nCategory: VW/VAG\nhttps://cary.porsche.com/en/cars-and-coffee
+URL:https://cary.porsche.com/en/cars-and-coffee
+END:VEVENT
+BEGIN:VEVENT
 UID:3ad97b723b0e6e30@local-events-feed
-DTSTAMP:20261019T120232Z
+DTSTAMP:20261019T220655Z
 DTSTART;TZID=America/New_York:20261212T100000
 DTEND;TZID=America/New_York:20261212T190000
 SUMMARY:NCRVDA Raleigh Used RV Sale (~15 min)
@@ -117,7 +176,7 @@ URL:https://www.northcarolinarvda.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:9e3b04777afe31d7@local-events-feed
-DTSTAMP:20261019T120232Z
+DTSTAMP:20261019T220655Z
 DTSTART;TZID=America/New_York:20261213T100000
 DTEND;TZID=America/New_York:20261213T160000
 SUMMARY:NCRVDA Raleigh Used RV Sale (~15 min)
@@ -131,36 +190,8 @@ DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nNC RV Dealers Association use
 URL:https://www.northcarolinarvda.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:2d85e9b28f5163c6@local-events-feed
-DTSTAMP:20261019T120232Z
-DTSTART;TZID=America/New_York:20261212T090000
-DTEND;TZID=America/New_York:20261212T170000
-SUMMARY:C&E Capital City Gun Show (~15 min)
-LOCATION:NC State Fairgrounds\, Agri-Supply Exposition Center\, 4285 Trinit
- y Rd\, Raleigh\, NC 27607
-DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nQuarterly C&E gun show\; the 
- fairgrounds calendar lists it at the Agri-Supply Exposition Center with ma
- tching hours and price. Confirm at cegunshows.com.\nPrice: Adults $12\, 12
-  & under free\, cash only\nCategory: firearms\nhttps://www.cegunshows.com/
-URL:https://www.cegunshows.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:09ef83fe83174c98@local-events-feed
-DTSTAMP:20261019T120232Z
-DTSTART;TZID=America/New_York:20261212T093000
-DTEND;TZID=America/New_York:20261212T113000
-SUMMARY:Porsche Cary Cars & Coffee (~10 min)
-LOCATION:Porsche Cary\, 700 Auto Park Blvd\, Cary\, NC 27511
-DESCRIPTION:Drive from Cary: ~3 mi\, ~10 min\nMonthly dealer-hosted Cars & 
- Coffee (2nd Saturday) at the Cary Porsche store\; Porsche-heavy but all ma
- rques welcome\, so VW/Audi owners fit in. Dealer site says 9:30-11:30am\, 
- some listings say 8am\; verify on the dealer page or Facebook.\nPrice: Fre
- e\nCategory: VW/VAG\nhttps://cary.porsche.com/en/cars-and-coffee
-URL:https://cary.porsche.com/en/cars-and-coffee
-END:VEVENT
-BEGIN:VEVENT
 UID:5640e1d4052f641f@local-events-feed
-DTSTAMP:20261019T120232Z
+DTSTAMP:20261019T220655Z
 DTSTART;TZID=America/New_York:20261213T100000
 DTEND;TZID=America/New_York:20261213T170000
 SUMMARY:C&E Capital City Gun Show (~15 min)

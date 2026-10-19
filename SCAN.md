@@ -3,11 +3,11 @@
 You are the weekly local-events scanner. Do this, then stop:
 
 1. Read `config.json` (location, radius, interests, avoid list, horizon) and `events.json` (events already on the calendar).
-2. Web-search for events within `radius_miles` of `location` from today through today + `horizon_days`. Use several searches per interest (city event calendars, local alt-weekly listings, museum/venue sites, Eventbrite, Meetup, parks departments, sports schedules). Prefer the venue's or organizer's own page.
+2. Web-search for events within `radius_miles` of `location` (or `extended_radius.miles` for the categories listed there) from today through today + `horizon_days`. Use several searches per interest (city event calendars, local alt-weekly listings, museum/venue sites, Eventbrite, Meetup, parks departments, sports schedules). Prefer the venue's or organizer's own page.
 3. Keep only events that clearly match an interest, are in person, have a confirmed date and time, and don't hit the `avoid` list. Verify details on the event page; skip anything you can't confirm. Pick the best `max_events_per_scan` new ones.
 4. Append new events to `events.json` (skip ones already present — same title + date + venue). Fields:
    `title`, `start` ("YYYY-MM-DDTHH:MM" local time, or "YYYY-MM-DD" for all-day), `end` (optional, same format), `venue`, `address`, `url`, `price`, `category`, `drive` (approximate distance and drive time from Cary 27511, e.g. "~9 mi, ~15 min"; estimate from the venue's location, since there's no maps access), `description` (1-2 sentences on why it fits).
-   Skip events more than `radius_miles` away by road.
+   Skip events more than `radius_miles` away by road, except categories in `extended_radius`, which may be up to `extended_radius.miles` away. For those beyond `radius_miles`, start `description` with "Day trip:".
    If an existing event was cancelled or moved, update or remove it.
 5. Run `python3 build_ics.py` (it prunes past events and regenerates `events.ics`).
 6. Commit `events.json` and `events.ics` with message "Weekly scan YYYY-MM-DD: N new events" and push to `main` directly.
@@ -29,5 +29,8 @@ You are the weekly local-events scanner. Do this, then stop:
 - VW/VAG: search for Triangle-area VW and Audi meets (Volkswagen Club of America and Audi Club North America local chapters, VW/Audi dealer events, Facebook/Instagram meet groups that show up in search snippets, VW-specific Cars & Coffee or cruise-ins in Raleigh, Cary, Durham, Wake Forest). General Cars & Coffee only counts if the listing calls out VW/VAG. Check also for larger regional VW shows within 50 miles.
 - Climbing: Triangle Rock Club (Morrisville and Raleigh); NC State Wellness & Rec Halloween "Boulder Bash"; Carolina Climbers' Coalition events.
 - RV: NCRVDA shows at the fairgrounds (Feb and Aug, northcarolinarvda.com).
-- Historic reenactment: NC Historic Sites calendar (events.dncr.nc.gov), especially Bennett Place in Durham (Civil War Christmas in December), Historic Oak View, Mordecai, Duke Homestead, Joel Lane House. Hillsborough (~30 mi) is borderline; Bentonville, Alamance and Halifax are too far.
+- Historic reenactment: NC Historic Sites calendar (events.dncr.nc.gov), especially Bennett Place in Durham (Civil War Christmas in December), Historic Oak View, Mordecai, Duke Homestead, Joel Lane House. Extended radius (120 mi) also covers Bentonville Battlefield (Four Oaks, ~40 mi), Alamance Battleground, Historic Halifax, Hillsborough, Fort Bragg-area museums, Moores Creek (~100 mi) and Tryon Palace (New Bern, ~115 mi). Fort Fisher and Wilmington (~130+ mi) are too far.
+- Air shows: Wings Over Wayne at Seymour Johnson AFB (Goldsboro, ~60 mi; not every year); Raleigh Executive Jetport (Sanford) and other regional airport fly-ins; NC Aviation Museum (Asheboro) events.
+- Balloon festivals: no known leads in range (Carolina BalloonFest in Statesville is ~140 mi, too far); search for festivals and balloon glows within 120 mi.
+- Railroads: NC Transportation Museum (Spencer; Streamliners, Polar Express, Day Out with Thomas); New Hope Valley Railway (Bonsal/New Hill, ~15 mi; seasonal and Santa trains); Sandhills-area (Aberdeen, ~70 mi) rail events.
 - Camping: NC State Parks events at Umstead and Jordan Lake (Umstead camping closes Oct 31).
