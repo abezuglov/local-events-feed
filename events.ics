@@ -8,38 +8,40 @@ X-WR-TIMEZONE:America/New_York
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:c2d46478805a2f6d@local-events-feed
-DTSTAMP:20261018T160038Z
+UID:82b9f7904cea2a0f@local-events-feed
+DTSTAMP:20261019T120232Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T170000
 SUMMARY:Raleigh Fall Train Show (42nd annual) (~15 min)
-LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
- eigh\, NC 27607
+LOCATION:NC State Fairgrounds\, Agri-Supply Exposition Center\, 4285 Trinit
+ y Rd\, Raleigh\, NC 27607
 DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nNeuse River Valley Model RR C
- lub show: 500+ vendor tables\, 16 operating layouts G to Z scale. Some lis
- tings give 4825 Trinity Rd\; confirm at nrvclub.net.\nPrice: $10 (good bot
- h days)\, 12 & under free\nCategory: modeling\nhttps://www.nmra.com/node/6
- 061
+ lub show: 500+ vendor tables\, 16 operating layouts G to Z scale. The fair
+ grounds calendar now lists the Agri-Supply Exposition Center (earlier list
+ ings said Jim Graham Building)\; confirm at nrvclub.net.\nPrice: $10 (good
+  both days)\, 12 & under free\nCategory: modeling\nhttps://www.nmra.com/no
+ de/6061
 URL:https://www.nmra.com/node/6061
 END:VEVENT
 BEGIN:VEVENT
-UID:cdeae762ae43ad0a@local-events-feed
-DTSTAMP:20261018T160038Z
+UID:f984c5a62bba72a6@local-events-feed
+DTSTAMP:20261019T120232Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T160000
 SUMMARY:Raleigh Fall Train Show (42nd annual) (~15 min)
-LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
- eigh\, NC 27607
+LOCATION:NC State Fairgrounds\, Agri-Supply Exposition Center\, 4285 Trinit
+ y Rd\, Raleigh\, NC 27607
 DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nNeuse River Valley Model RR C
- lub show: 500+ vendor tables\, 16 operating layouts G to Z scale. Some lis
- tings give 4825 Trinity Rd\; confirm at nrvclub.net.\nPrice: $10 (good bot
- h days)\, 12 & under free\nCategory: modeling\nhttps://www.nmra.com/node/6
- 061
+ lub show: 500+ vendor tables\, 16 operating layouts G to Z scale. The fair
+ grounds calendar now lists the Agri-Supply Exposition Center (earlier list
+ ings said Jim Graham Building)\; confirm at nrvclub.net.\nPrice: $10 (good
+  both days)\, 12 & under free\nCategory: modeling\nhttps://www.nmra.com/no
+ de/6061
 URL:https://www.nmra.com/node/6061
 END:VEVENT
 BEGIN:VEVENT
 UID:e48a9a7af19d5f3f@local-events-feed
-DTSTAMP:20261018T160038Z
+DTSTAMP:20261019T120232Z
 DTSTART;TZID=America/New_York:20261114T093000
 DTEND;TZID=America/New_York:20261114T113000
 SUMMARY:Porsche Cary Cars & Coffee (~10 min)
@@ -52,63 +54,99 @@ DESCRIPTION:Drive from Cary: ~3 mi\, ~10 min\nMonthly dealer-hosted Cars &
 URL:https://cary.porsche.com/en/cars-and-coffee
 END:VEVENT
 BEGIN:VEVENT
-UID:a50b610b2ddafef4@local-events-feed
-DTSTAMP:20261018T160038Z
+UID:3a010502a6b42bd5@local-events-feed
+DTSTAMP:20261019T120232Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T170000
 SUMMARY:Dixie Gun & Knife Show\, Raleigh (~15 min)
-LOCATION:NC State Fairgrounds\, 1025 Blue Ridge Rd\, Raleigh\, NC 27607
-DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nGun & knife show\; both days 
- confirmed on the NC State Fair event calendar. Building and price not conf
- irmed\, so check with the promoter.\nPrice: ~$9 (confirm with promoter)\nC
- ategory: firearms\nhttps://hopmunitions.com/north-carolina-gun-shows-sched
- ule
+LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
+ eigh\, NC 27607
+DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nGun & knife show\; dates and 
+ the Jim Graham Building are on the NC State Fair event calendar\, hours (S
+ at 9-5\, Sun 10-5) on a gun-show guide. Price listings conflict\, so check
+  with the promoter.\nPrice: ~$9-10\, 12 & under free\, cash only (confirm 
+ with promoter)\nCategory: firearms\nhttps://hopmunitions.com/north-carolin
+ a-gun-shows-schedule
 URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:a9e51513ff965e38@local-events-feed
-DTSTAMP:20261018T160038Z
+UID:635a1d23db797698@local-events-feed
+DTSTAMP:20261019T120232Z
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T170000
 SUMMARY:Dixie Gun & Knife Show\, Raleigh (~15 min)
-LOCATION:NC State Fairgrounds\, 1025 Blue Ridge Rd\, Raleigh\, NC 27607
-DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nGun & knife show\; both days 
- confirmed on the NC State Fair event calendar. Building and price not conf
- irmed\, so check with the promoter.\nPrice: ~$9 (confirm with promoter)\nC
- ategory: firearms\nhttps://hopmunitions.com/north-carolina-gun-shows-sched
- ule
+LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
+ eigh\, NC 27607
+DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nGun & knife show\; dates and 
+ the Jim Graham Building are on the NC State Fair event calendar\, hours (S
+ at 9-5\, Sun 10-5) on a gun-show guide. Price listings conflict\, so check
+  with the promoter.\nPrice: ~$9-10\, 12 & under free\, cash only (confirm 
+ with promoter)\nCategory: firearms\nhttps://hopmunitions.com/north-carolin
+ a-gun-shows-schedule
 URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:76073120f3c7e0a6@local-events-feed
-DTSTAMP:20261018T160038Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
+UID:70ee6c536502cc1a@local-events-feed
+DTSTAMP:20261019T120232Z
+DTSTART;TZID=America/New_York:20261211T120000
+DTEND;TZID=America/New_York:20261211T190000
 SUMMARY:NCRVDA Raleigh Used RV Sale (~15 min)
-LOCATION:NC State Fairgrounds\, 4285 Trinity Rd\, Raleigh\, NC 27607
+LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
+ eigh\, NC 27607
 DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nNC RV Dealers Association use
- d-RV show & sale. The fairgrounds calendar lists Dec 11-12\, NCRVDA lists 
- Dec 11-13\; hours not posted yet.\nPrice: Not yet posted\nCategory: RV\nht
- tps://www.northcarolinarvda.com/
+ d-RV show & sale\; dealers cut prices to clear inventory. Fairgrounds cale
+ ndar gives Fri noon-7\, Sat 10-7\, Sun 10-4 but lists only Dec 11-12\; NCR
+ VDA lists Dec 11-13\, so verify the Sunday before going.\nPrice: Free\nCat
+ egory: RV\nhttps://www.northcarolinarvda.com/
 URL:https://www.northcarolinarvda.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:06b12fc8b64d9e20@local-events-feed
-DTSTAMP:20261018T160038Z
+UID:3ad97b723b0e6e30@local-events-feed
+DTSTAMP:20261019T120232Z
+DTSTART;TZID=America/New_York:20261212T100000
+DTEND;TZID=America/New_York:20261212T190000
+SUMMARY:NCRVDA Raleigh Used RV Sale (~15 min)
+LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
+ eigh\, NC 27607
+DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nNC RV Dealers Association use
+ d-RV show & sale\; dealers cut prices to clear inventory. Fairgrounds cale
+ ndar gives Fri noon-7\, Sat 10-7\, Sun 10-4 but lists only Dec 11-12\; NCR
+ VDA lists Dec 11-13\, so verify the Sunday before going.\nPrice: Free\nCat
+ egory: RV\nhttps://www.northcarolinarvda.com/
+URL:https://www.northcarolinarvda.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:9e3b04777afe31d7@local-events-feed
+DTSTAMP:20261019T120232Z
+DTSTART;TZID=America/New_York:20261213T100000
+DTEND;TZID=America/New_York:20261213T160000
+SUMMARY:NCRVDA Raleigh Used RV Sale (~15 min)
+LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
+ eigh\, NC 27607
+DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nNC RV Dealers Association use
+ d-RV show & sale\; dealers cut prices to clear inventory. Fairgrounds cale
+ ndar gives Fri noon-7\, Sat 10-7\, Sun 10-4 but lists only Dec 11-12\; NCR
+ VDA lists Dec 11-13\, so verify the Sunday before going.\nPrice: Free\nCat
+ egory: RV\nhttps://www.northcarolinarvda.com/
+URL:https://www.northcarolinarvda.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d85e9b28f5163c6@local-events-feed
+DTSTAMP:20261019T120232Z
 DTSTART;TZID=America/New_York:20261212T090000
 DTEND;TZID=America/New_York:20261212T170000
 SUMMARY:C&E Capital City Gun Show (~15 min)
-LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
- eigh\, NC 27607
-DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nQuarterly C&E gun show at the
-  fairgrounds. Building may be the Agri Supply Expo Center\; confirm at ceg
- unshows.com.\nPrice: Adults $12\, 12 & under free\, cash only\nCategory: f
- irearms\nhttps://www.cegunshows.com/
+LOCATION:NC State Fairgrounds\, Agri-Supply Exposition Center\, 4285 Trinit
+ y Rd\, Raleigh\, NC 27607
+DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nQuarterly C&E gun show\; the 
+ fairgrounds calendar lists it at the Agri-Supply Exposition Center with ma
+ tching hours and price. Confirm at cegunshows.com.\nPrice: Adults $12\, 12
+  & under free\, cash only\nCategory: firearms\nhttps://www.cegunshows.com/
 URL:https://www.cegunshows.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:09ef83fe83174c98@local-events-feed
-DTSTAMP:20261018T160038Z
+DTSTAMP:20261019T120232Z
 DTSTART;TZID=America/New_York:20261212T093000
 DTEND;TZID=America/New_York:20261212T113000
 SUMMARY:Porsche Cary Cars & Coffee (~10 min)
@@ -121,17 +159,17 @@ DESCRIPTION:Drive from Cary: ~3 mi\, ~10 min\nMonthly dealer-hosted Cars &
 URL:https://cary.porsche.com/en/cars-and-coffee
 END:VEVENT
 BEGIN:VEVENT
-UID:bdb477d72c9b5c77@local-events-feed
-DTSTAMP:20261018T160038Z
+UID:5640e1d4052f641f@local-events-feed
+DTSTAMP:20261019T120232Z
 DTSTART;TZID=America/New_York:20261213T100000
 DTEND;TZID=America/New_York:20261213T170000
 SUMMARY:C&E Capital City Gun Show (~15 min)
-LOCATION:NC State Fairgrounds\, Jim Graham Building\, 4285 Trinity Rd\, Ral
- eigh\, NC 27607
-DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nQuarterly C&E gun show at the
-  fairgrounds. Building may be the Agri Supply Expo Center\; confirm at ceg
- unshows.com.\nPrice: Adults $12\, 12 & under free\, cash only\nCategory: f
- irearms\nhttps://www.cegunshows.com/
+LOCATION:NC State Fairgrounds\, Agri-Supply Exposition Center\, 4285 Trinit
+ y Rd\, Raleigh\, NC 27607
+DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nQuarterly C&E gun show\; the 
+ fairgrounds calendar lists it at the Agri-Supply Exposition Center with ma
+ tching hours and price. Confirm at cegunshows.com.\nPrice: Adults $12\, 12
+  & under free\, cash only\nCategory: firearms\nhttps://www.cegunshows.com/
 URL:https://www.cegunshows.com/
 END:VEVENT
 END:VCALENDAR
