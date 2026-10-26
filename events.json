@@ -1,17 +1,5 @@
 [
   {
-    "title": "Fly-In and Cruise-In, Lumberton",
-    "start": "2026-10-24T10:00",
-    "end": "2026-10-24T14:00",
-    "venue": "Lumberton Regional Airport",
-    "address": "163 Airport Blvd, Lumberton, NC 28358",
-    "url": "https://www.visitnc.com/events/fly-and-cruise",
-    "price": "Free",
-    "category": "air shows",
-    "drive": "~90 mi, ~1 hr 30 min",
-    "description": "Day trip: aircraft on display alongside classic and show cars, food and craft vendors, live music. Contact the airport at (910) 739-6480."
-  },
-  {
     "title": "Raleigh Fall Train Show (42nd annual)",
     "start": "2026-11-07T09:00",
     "end": "2026-11-07T17:00",
@@ -116,6 +104,18 @@
     "category": "firearms",
     "description": "Gun & knife show; dates and the Jim Graham Building are on the NC State Fair event calendar, hours (Sat 9-5, Sun 10-5) on a gun-show guide. Price listings conflict, so check with the promoter.",
     "drive": "~9 mi, ~15 min"
+  },
+  {
+    "title": "Yuletide by Lanternlight, Historic Halifax",
+    "start": "2026-12-04T18:00",
+    "end": "2026-12-04T20:00",
+    "venue": "Historic Halifax State Historic Site",
+    "address": "25 St David St, Halifax, NC 27839",
+    "url": "https://events.dncr.nc.gov/event/yuletide-by-lanternlight",
+    "price": "$20 per person, tickets on Eventbrite or at the site from Nov 1",
+    "category": "historic reenactment",
+    "drive": "~90 mi, ~1 hr 30 min",
+    "description": "Day trip: an evening lantern-lit tour of Halifax's colonial and early-American buildings, decorated for the season with costumed interpreters. Date and time are from the NC Historic Sites calendar; one listing gives the address as 101 N King St, so check before you go."
   },
   {
     "venue": "New Hope Valley Railway",
@@ -225,6 +225,18 @@
     "drive": "~9 mi, ~15 min"
   },
   {
+    "title": "Tryon Palace Candlelight Christmas Celebration",
+    "venue": "Tryon Palace",
+    "address": "529 S Front St, New Bern, NC 28562",
+    "url": "https://www.tryonpalace.org/events/candlelight",
+    "price": "Ticketed; regular price not yet confirmed (early-bird ended Oct 1). Non-refundable, often sells out",
+    "category": "historic reenactment",
+    "drive": "~115 mi, ~2 hr",
+    "description": "Day trip: candlelit tours of the decorated 18th-century Palace and the Stanly and Dixon Houses, with a fife and drum corps, costumed interpreters and a black-powder fireworks show around 9:30pm. Dates and hours are from the Palace's own event page; buy tickets early.",
+    "start": "2026-12-12T15:30",
+    "end": "2026-12-12T21:30"
+  },
+  {
     "venue": "New Hope Valley Railway",
     "address": "3900 Bonsal Rd, New Hill, NC 27562",
     "url": "https://www.triangletrain.com/",
@@ -259,5 +271,17 @@
     "category": "firearms",
     "description": "Quarterly C&E gun show; the fairgrounds calendar lists it at the Agri-Supply Exposition Center with matching hours and price. Confirm at cegunshows.com.",
     "drive": "~9 mi, ~15 min"
+  },
+  {
+    "title": "Tryon Palace Candlelight Christmas Celebration",
+    "venue": "Tryon Palace",
+    "address": "529 S Front St, New Bern, NC 28562",
+    "url": "https://www.tryonpalace.org/events/candlelight",
+    "price": "Ticketed; regular price not yet confirmed (early-bird ended Oct 1). Non-refundable, often sells out",
+    "category": "historic reenactment",
+    "drive": "~115 mi, ~2 hr",
+    "description": "Day trip: candlelit tours of the decorated 18th-century Palace and the Stanly and Dixon Houses, with a fife and drum corps, costumed interpreters and a black-powder fireworks show around 9:30pm. Dates and hours are from the Palace's own event page; buy tickets early.",
+    "start": "2026-12-19T15:30",
+    "end": "2026-12-19T21:30"
   }
 ]
