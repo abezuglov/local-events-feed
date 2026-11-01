@@ -295,5 +295,17 @@
     "description": "Day trip: candlelit tours of the decorated 18th-century Palace and the Stanly and Dixon Houses, with a fife and drum corps, costumed interpreters and a black-powder fireworks show around 9:30pm. Dates and hours are from the Palace's own event page; buy tickets early.",
     "start": "2026-12-19T15:30",
     "end": "2026-12-19T21:30"
+  },
+  {
+    "title": "Christmas Candlelight Open House, Aycock Birthplace",
+    "start": "2026-12-19T17:00",
+    "end": "2026-12-19T19:00",
+    "venue": "Governor Charles B. Aycock Birthplace State Historic Site",
+    "address": "264 Governor Aycock Rd, Fremont, NC 27830",
+    "url": "https://events.dncr.nc.gov/event/christmas-candlelight-open-house-2836",
+    "price": "$5 + tax, ages 13 and up",
+    "category": "historic reenactment",
+    "drive": "~70 mi, ~1 hr 15 min",
+    "description": "Day trip: candlelit tours of the 1800s farmstead with costumed interpreters and a hearth-cooked Christmas meal. Date, time and price are from the NC Historic Sites calendar."
   }
 ]
