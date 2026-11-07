@@ -94,6 +94,42 @@
     "drive": "~9 mi, ~15 min"
   },
   {
+    "title": "KIT CON 2026 Model Show & Contest",
+    "start": "2026-11-21T09:00",
+    "end": "2026-11-21T17:00",
+    "venue": "Hilton North Raleigh/Midtown",
+    "address": "3415 Wake Forest Rd, Raleigh, NC 27609",
+    "url": "https://www.kit-con.com/",
+    "price": "$5 at the door, 10 & under free; contest entry $15 for up to 5 kits",
+    "category": "modeling",
+    "drive": "~16 mi, ~25 min",
+    "description": "Scale model show hosted by ModelWorx (listed on the IPMS/USA calendar): model contest, vendors, raffle and demos."
+  },
+  {
+    "title": "Mustering the Militia",
+    "start": "2026-11-21T10:00",
+    "end": "2026-11-21T15:00",
+    "venue": "CSS Neuse Civil War Museum / Governor Richard Caswell Memorial",
+    "address": "2612 W Vernon Ave, Kinston, NC 28501",
+    "url": "https://events.dncr.nc.gov/event/mustering-the-militia-1369",
+    "price": "Free",
+    "category": "historic reenactment",
+    "drive": "~80 mi, ~1 hr 30 min",
+    "description": "Day trip: America 250 militia muster with the Dobbs County militia doing musket and cannon demos, plus period camp-follower crafts and apothecary. The listing gives two addresses (100 N Queen St and 2612 W Vernon Ave), so verify."
+  },
+  {
+    "title": "Thanksgiving: Culinary & Cultural History at Bennett Place",
+    "start": "2026-11-21T11:00",
+    "end": "2026-11-21T15:00",
+    "venue": "Bennett Place State Historic Site",
+    "address": "4409 Bennett Memorial Rd, Durham, NC 27705",
+    "url": "https://events.dncr.nc.gov/event/thanksgiving-culinary-cultural-history",
+    "price": "Free ($10 suggested donation)",
+    "category": "historic reenactment",
+    "drive": "~22 mi, ~30 min",
+    "description": "Civil War-era Thanksgiving program with hearth cooking demos, historic games and crafts at the 1865 surrender site. Listing doesn't say if costumed interpreters will be there."
+  },
+  {
     "title": "Dixie Gun & Knife Show, Raleigh",
     "start": "2026-11-22T10:00",
     "end": "2026-11-22T17:00",
@@ -175,6 +211,18 @@
     "end": "2026-12-06T16:35",
     "price": "See Etix via triangletrain.com",
     "description": "Heritage train ride with Santa aboard; departures 9:30, 11:00, 12:30, 2:15, 3:45 (about 50 min each). Heated cabooses sell out early."
+  },
+  {
+    "title": "Sensory-Friendly Winter Ride, New Hope Valley Railway",
+    "start": "2026-12-09T10:30",
+    "end": "2026-12-09T13:00",
+    "venue": "New Hope Valley Railway",
+    "address": "3900 Bonsal Rd, New Hill, NC 27562",
+    "url": "https://www.triangletrain.com/",
+    "price": "See Etix via triangletrain.com",
+    "category": "railroads",
+    "drive": "~18 mi, ~25 min",
+    "description": "Quieter heritage train ride (no music, horn warnings, Santa stays in the railyard); departures at 10:30am and 12:00pm."
   },
   {
     "title": "NCRVDA Raleigh Used RV Sale",
@@ -283,6 +331,18 @@
     "category": "firearms",
     "description": "Quarterly C&E gun show; the fairgrounds calendar lists it at the Agri-Supply Exposition Center with matching hours and price. Confirm at cegunshows.com.",
     "drive": "~9 mi, ~15 min"
+  },
+  {
+    "venue": "New Hope Valley Railway",
+    "address": "3900 Bonsal Rd, New Hill, NC 27562",
+    "url": "https://www.triangletrain.com/",
+    "category": "railroads",
+    "drive": "~18 mi, ~25 min",
+    "title": "Santa Express, New Hope Valley Railway",
+    "start": "2026-12-19T09:30",
+    "end": "2026-12-19T16:35",
+    "price": "See Etix via triangletrain.com",
+    "description": "Heritage train ride with Santa aboard; departures 9:30, 11:00, 12:30, 2:15, 3:45 (about 50 min each). Heated cabooses sell out early."
   },
   {
     "title": "Tryon Palace Candlelight Christmas Celebration",
