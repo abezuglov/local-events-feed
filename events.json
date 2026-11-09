@@ -1,51 +1,5 @@
 [
   {
-    "title": "Raleigh Fall Train Show (42nd annual)",
-    "start": "2026-11-07T09:00",
-    "end": "2026-11-07T17:00",
-    "venue": "NC State Fairgrounds, Agri-Supply Exposition Center",
-    "address": "4285 Trinity Rd, Raleigh, NC 27607",
-    "url": "https://www.nmra.com/node/6061",
-    "price": "$10 (good both days), 12 & under free",
-    "category": "modeling",
-    "description": "Neuse River Valley Model RR Club show: 500+ vendor tables, 16 operating layouts G to Z scale. The fairgrounds calendar now lists the Agri-Supply Exposition Center (earlier listings said Jim Graham Building); confirm at nrvclub.net.",
-    "drive": "~9 mi, ~15 min"
-  },
-  {
-    "venue": "Fort Branch Civil War Site",
-    "address": "2883 Fort Branch Rd, Oak City, NC 27857",
-    "url": "https://fortbranchcivilwarsite.com/",
-    "category": "historic reenactment",
-    "drive": "~110 mi, ~2 hr",
-    "price": "Not listed; check the site",
-    "title": "Fort Branch Battlefield Re-enactment",
-    "start": "2026-11-07T13:30",
-    "description": "Day trip: annual Civil War battle reenactment and living-history camp on the Roanoke River earthworks; battle starts 1:30pm. Organizer says 'planned until further notice', so check the site before driving."
-  },
-  {
-    "title": "Raleigh Fall Train Show (42nd annual)",
-    "start": "2026-11-08T10:00",
-    "end": "2026-11-08T16:00",
-    "venue": "NC State Fairgrounds, Agri-Supply Exposition Center",
-    "address": "4285 Trinity Rd, Raleigh, NC 27607",
-    "url": "https://www.nmra.com/node/6061",
-    "price": "$10 (good both days), 12 & under free",
-    "category": "modeling",
-    "description": "Neuse River Valley Model RR Club show: 500+ vendor tables, 16 operating layouts G to Z scale. The fairgrounds calendar now lists the Agri-Supply Exposition Center (earlier listings said Jim Graham Building); confirm at nrvclub.net.",
-    "drive": "~9 mi, ~15 min"
-  },
-  {
-    "venue": "Fort Branch Civil War Site",
-    "address": "2883 Fort Branch Rd, Oak City, NC 27857",
-    "url": "https://fortbranchcivilwarsite.com/",
-    "category": "historic reenactment",
-    "drive": "~110 mi, ~2 hr",
-    "price": "Not listed; check the site",
-    "title": "Fort Branch Battlefield Re-enactment",
-    "start": "2026-11-08T13:30",
-    "description": "Day trip: second day of the annual Civil War battle reenactment; battle starts 1:30pm. Organizer says 'planned until further notice', so check the site before driving."
-  },
-  {
     "title": "Porsche Cary Cars & Coffee",
     "venue": "Porsche Cary",
     "address": "700 Auto Park Blvd, Cary, NC 27511",

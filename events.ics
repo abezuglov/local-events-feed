@@ -8,70 +8,8 @@ X-WR-TIMEZONE:America/New_York
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:82b9f7904cea2a0f@local-events-feed
-DTSTAMP:20261107T154041Z
-DTSTART;TZID=America/New_York:20261107T090000
-DTEND;TZID=America/New_York:20261107T170000
-SUMMARY:Raleigh Fall Train Show (42nd annual) (~15 min)
-LOCATION:NC State Fairgrounds\, Agri-Supply Exposition Center\, 4285 Trinit
- y Rd\, Raleigh\, NC 27607
-DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nNeuse River Valley Model RR C
- lub show: 500+ vendor tables\, 16 operating layouts G to Z scale. The fair
- grounds calendar now lists the Agri-Supply Exposition Center (earlier list
- ings said Jim Graham Building)\; confirm at nrvclub.net.\nPrice: $10 (good
-  both days)\, 12 & under free\nCategory: modeling\nhttps://www.nmra.com/no
- de/6061
-URL:https://www.nmra.com/node/6061
-END:VEVENT
-BEGIN:VEVENT
-UID:1fa223012dd1ba20@local-events-feed
-DTSTAMP:20261107T154041Z
-DTSTART;TZID=America/New_York:20261107T133000
-DTEND;TZID=America/New_York:20261107T153000
-SUMMARY:Fort Branch Battlefield Re-enactment (~2 hr)
-LOCATION:Fort Branch Civil War Site\, 2883 Fort Branch Rd\, Oak City\, NC 2
- 7857
-DESCRIPTION:Drive from Cary: ~110 mi\, ~2 hr\nDay trip: annual Civil War ba
- ttle reenactment and living-history camp on the Roanoke River earthworks\;
-  battle starts 1:30pm. Organizer says 'planned until further notice'\, so 
- check the site before driving.\nPrice: Not listed\; check the site\nCatego
- ry: historic reenactment\nhttps://fortbranchcivilwarsite.com/
-URL:https://fortbranchcivilwarsite.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:f984c5a62bba72a6@local-events-feed
-DTSTAMP:20261107T154041Z
-DTSTART;TZID=America/New_York:20261108T100000
-DTEND;TZID=America/New_York:20261108T160000
-SUMMARY:Raleigh Fall Train Show (42nd annual) (~15 min)
-LOCATION:NC State Fairgrounds\, Agri-Supply Exposition Center\, 4285 Trinit
- y Rd\, Raleigh\, NC 27607
-DESCRIPTION:Drive from Cary: ~9 mi\, ~15 min\nNeuse River Valley Model RR C
- lub show: 500+ vendor tables\, 16 operating layouts G to Z scale. The fair
- grounds calendar now lists the Agri-Supply Exposition Center (earlier list
- ings said Jim Graham Building)\; confirm at nrvclub.net.\nPrice: $10 (good
-  both days)\, 12 & under free\nCategory: modeling\nhttps://www.nmra.com/no
- de/6061
-URL:https://www.nmra.com/node/6061
-END:VEVENT
-BEGIN:VEVENT
-UID:d475089f13fbfe66@local-events-feed
-DTSTAMP:20261107T154041Z
-DTSTART;TZID=America/New_York:20261108T133000
-DTEND;TZID=America/New_York:20261108T153000
-SUMMARY:Fort Branch Battlefield Re-enactment (~2 hr)
-LOCATION:Fort Branch Civil War Site\, 2883 Fort Branch Rd\, Oak City\, NC 2
- 7857
-DESCRIPTION:Drive from Cary: ~110 mi\, ~2 hr\nDay trip: second day of the a
- nnual Civil War battle reenactment\; battle starts 1:30pm. Organizer says 
- 'planned until further notice'\, so check the site before driving.\nPrice:
-  Not listed\; check the site\nCategory: historic reenactment\nhttps://fort
- branchcivilwarsite.com/
-URL:https://fortbranchcivilwarsite.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:e48a9a7af19d5f3f@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261114T093000
 DTEND;TZID=America/New_York:20261114T113000
 SUMMARY:Porsche Cary Cars & Coffee (~10 min)
@@ -85,7 +23,7 @@ URL:https://cary.porsche.com/en/cars-and-coffee
 END:VEVENT
 BEGIN:VEVENT
 UID:51c8d04aa66c4001@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T160000
 SUMMARY:Bentonville Battlefield Fall Festival (~45 min)
@@ -100,7 +38,7 @@ URL:https://www.visitnc.com/events/bentonville-battlefield-fall-festival-0
 END:VEVENT
 BEGIN:VEVENT
 UID:33f4bddfd2e816b6@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261114T140000
 DTEND;TZID=America/New_York:20261114T163000
 SUMMARY:S'mores and Suds Train (~25 min)
@@ -113,7 +51,7 @@ URL:https://www.triangletrain.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:3a010502a6b42bd5@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T170000
 SUMMARY:Dixie Gun & Knife Show\, Raleigh (~15 min)
@@ -129,7 +67,7 @@ URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:1eeab2bd508d8fad@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T170000
 SUMMARY:KIT CON 2026 Model Show & Contest (~25 min)
@@ -143,7 +81,7 @@ URL:https://www.kit-con.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:82f93bd73e66afaf@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T150000
 SUMMARY:Mustering the Militia (~1 hr 30 min)
@@ -159,7 +97,7 @@ URL:https://events.dncr.nc.gov/event/mustering-the-militia-1369
 END:VEVENT
 BEGIN:VEVENT
 UID:a7e1894b9cbac1e7@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261121T110000
 DTEND;TZID=America/New_York:20261121T150000
 SUMMARY:Thanksgiving: Culinary & Cultural History at Bennett Place (~30 min
@@ -175,7 +113,7 @@ URL:https://events.dncr.nc.gov/event/thanksgiving-culinary-cultural-history
 END:VEVENT
 BEGIN:VEVENT
 UID:635a1d23db797698@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T170000
 SUMMARY:Dixie Gun & Knife Show\, Raleigh (~15 min)
@@ -191,7 +129,7 @@ URL:https://hopmunitions.com/north-carolina-gun-shows-schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:4997a301455c7f54@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261128T163000
 DTEND;TZID=America/New_York:20261128T173000
 SUMMARY:Titan New Bern Air Show (~2 hr)
@@ -206,7 +144,7 @@ URL:https://www.visitnc.com/events/titan-aerobatic-team-air-show
 END:VEVENT
 BEGIN:VEVENT
 UID:55e34138ebe01465@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261204T180000
 DTEND;TZID=America/New_York:20261204T200000
 SUMMARY:Yuletide by Lanternlight\, Historic Halifax (~1 hr 30 min)
@@ -223,7 +161,7 @@ URL:https://events.dncr.nc.gov/event/yuletide-by-lanternlight
 END:VEVENT
 BEGIN:VEVENT
 UID:18e03efb80910d74@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261205T093000
 DTEND;TZID=America/New_York:20261205T163500
 SUMMARY:Santa Express\, New Hope Valley Railway (~25 min)
@@ -236,7 +174,7 @@ URL:https://www.triangletrain.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:80b9fa0feb4a2de0@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261205T170000
 DTEND;TZID=America/New_York:20261205T203000
 SUMMARY:In Heavenly Peace: Bentonville Christmas Open House (~45 min)
@@ -252,7 +190,7 @@ URL:https://www.johnstoncountync.org/event/in-heavenly-peace:-bentonville-c
 END:VEVENT
 BEGIN:VEVENT
 UID:5b64c9aac6ba34ec@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261205T190000
 DTEND;TZID=America/New_York:20261205T210000
 SUMMARY:Fort Branch Civil War Christmas (~2 hr)
@@ -266,7 +204,7 @@ URL:https://fortbranchcivilwarsite.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:ba1074fad3f7c7f1@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261206T093000
 DTEND;TZID=America/New_York:20261206T163500
 SUMMARY:Santa Express\, New Hope Valley Railway (~25 min)
@@ -279,7 +217,7 @@ URL:https://www.triangletrain.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:112a481be44aef3d@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261209T103000
 DTEND;TZID=America/New_York:20261209T130000
 SUMMARY:Sensory-Friendly Winter Ride\, New Hope Valley Railway (~25 min)
@@ -292,7 +230,7 @@ URL:https://www.triangletrain.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:70ee6c536502cc1a@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261211T120000
 DTEND;TZID=America/New_York:20261211T190000
 SUMMARY:NCRVDA Raleigh Used RV Sale (~15 min)
@@ -307,7 +245,7 @@ URL:https://www.northcarolinarvda.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:2d85e9b28f5163c6@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261212T090000
 DTEND;TZID=America/New_York:20261212T170000
 SUMMARY:C&E Capital City Gun Show (~15 min)
@@ -321,7 +259,7 @@ URL:https://www.cegunshows.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:09ef83fe83174c98@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261212T093000
 DTEND;TZID=America/New_York:20261212T113000
 SUMMARY:Porsche Cary Cars & Coffee (~10 min)
@@ -335,7 +273,7 @@ URL:https://cary.porsche.com/en/cars-and-coffee
 END:VEVENT
 BEGIN:VEVENT
 UID:e2e54d83b62c78ec@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261212T093000
 DTEND;TZID=America/New_York:20261212T163500
 SUMMARY:Santa Express\, New Hope Valley Railway (~25 min)
@@ -348,7 +286,7 @@ URL:https://www.triangletrain.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:3ad97b723b0e6e30@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261212T100000
 DTEND;TZID=America/New_York:20261212T190000
 SUMMARY:NCRVDA Raleigh Used RV Sale (~15 min)
@@ -363,7 +301,7 @@ URL:https://www.northcarolinarvda.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:a8b9db6ea3faf693@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261212T153000
 DTEND;TZID=America/New_York:20261212T213000
 SUMMARY:Tryon Palace Candlelight Christmas Celebration (~2 hr)
@@ -379,7 +317,7 @@ URL:https://www.tryonpalace.org/events/candlelight
 END:VEVENT
 BEGIN:VEVENT
 UID:a0e08d5452abefe0@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261213T093000
 DTEND;TZID=America/New_York:20261213T163500
 SUMMARY:Santa Express\, New Hope Valley Railway (~25 min)
@@ -392,7 +330,7 @@ URL:https://www.triangletrain.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:9e3b04777afe31d7@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261213T100000
 DTEND;TZID=America/New_York:20261213T160000
 SUMMARY:NCRVDA Raleigh Used RV Sale (~15 min)
@@ -407,7 +345,7 @@ URL:https://www.northcarolinarvda.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:5640e1d4052f641f@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261213T100000
 DTEND;TZID=America/New_York:20261213T170000
 SUMMARY:C&E Capital City Gun Show (~15 min)
@@ -421,7 +359,7 @@ URL:https://www.cegunshows.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:94c6b2e7f5197789@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261219T093000
 DTEND;TZID=America/New_York:20261219T163500
 SUMMARY:Santa Express\, New Hope Valley Railway (~25 min)
@@ -434,7 +372,7 @@ URL:https://www.triangletrain.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:215b21138bb2d71a@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261219T153000
 DTEND;TZID=America/New_York:20261219T213000
 SUMMARY:Tryon Palace Candlelight Christmas Celebration (~2 hr)
@@ -450,7 +388,7 @@ URL:https://www.tryonpalace.org/events/candlelight
 END:VEVENT
 BEGIN:VEVENT
 UID:03924a0eb25c500b@local-events-feed
-DTSTAMP:20261107T154041Z
+DTSTAMP:20261109T130143Z
 DTSTART;TZID=America/New_York:20261219T170000
 DTEND;TZID=America/New_York:20261219T190000
 SUMMARY:Christmas Candlelight Open House\, Aycock Birthplace (~1 hr 15 min)
